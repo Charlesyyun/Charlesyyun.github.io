@@ -20,8 +20,9 @@ Education
 Professional Experience
 ======
 * Mar 2023 - Present: Associate Professor 
-  * Yue-Kong Pao Young Top Scholar
   * Faculty of Maritime and Transportation, Ningbo University (NBU)
+  * Yongjiang Talent (Young Innovative), Young Innovative of Beilun District, and Top Talent of Ningbo
+  * Yue-Kong Pao Young Top Scholar of NBU
 
 * Sep 2022 - Feb 2023: AI Computer Vision/Image Processing Algorithm Engineer
   * Central Media Technology Institute, 2012 Lab, Huawei Technologies
