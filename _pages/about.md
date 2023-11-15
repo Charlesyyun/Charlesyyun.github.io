@@ -14,7 +14,7 @@ Dr. Yun (Charles) YE is an Associate Professor in the Faculty of Maritime and Tr
  * VR/AR-based Simulation
  * Human Factors
  * Pedestrian Behaviors
- * Road Safety
+ * Traffic Safety
  * Pedestrian-AVs Interaction
 
    
