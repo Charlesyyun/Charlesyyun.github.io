@@ -20,6 +20,7 @@ Dr. Yun (Charles) YE is an Associate Professor in the Faculty of Maritime and Tr
    
 # Selected Publications
 ## Journal Papers
+ * Lin, X., Huang, Z., **Ye, Y.**, Dong, J., Feng, H., Zheng, P. (2023). Effects of Aging on Taxi Service Performance: A Comparative Study Based on Different Age Groups. *Sustainability*, in press. (SCI/SSCI, JCR Q2)
  * Wang, F., Du, W., Feng, H., **Ye, Y.**, Griffoll, M., Liu, G., & Zheng, P. (2023). Identification of risk influential factors for fishing vessel accident using claims data from fisheries mutual insurance association. *Sustainability*, 15(18), 13427. (SCI/SSCI, JCR Q2)
  * **Ye, Y.**, Wong, S.C., Li, Y.C., & Choi, K.M. (2023). Crossing behaviors of drunk pedestrians unfamiliar with local traffic rules. *Safety Science*, 157, 105924. (SCI, JCR Q1)
  * **Ye, Y.**, Wong, S.C., Meng, F., & Xu, P. (2021). Right-looking habit and maladaptation of pedestrians in areas with unfamiliar driving rules. *Accident Analysis & Prevention*, 150, 105921. (SSCI, JCR Q1, Top)
