@@ -20,7 +20,7 @@ Dr. Yun (Charles) YE is an Associate Professor in the Faculty of Maritime and Tr
    
 # Selected Publications
 ## Journal Papers
- * Shao, T., Du, W., **Ye, Y.**, Li, H., Dong, J., Liu, G., & Zheng, P. (2023). A Novel Virtual Arrival Optimization Method for Traffic Organization Scenarios. *Sustainability*, in press. (SCI/SSCI, JCR Q2)
+ * Shao, T., Du, W., **Ye, Y.**, Li, H., Dong, J., Liu, G., & Zheng, P. (2024). A Novel Virtual Arrival Optimization Method for Traffic Organization Scenarios. *Sustainability*, 16(1), 403. (SCI/SSCI, JCR Q2)
  * Lin, X., Huang, Z., **Ye, Y.**, Dong, J., Feng, H., & Zheng, P. (2023). Effects of Aging on Taxi Service Performance: A Comparative Study Based on Different Age Groups. *Sustainability*, 15(22), 16096. (SCI/SSCI, JCR Q2)
  * Wang, F., Du, W., Feng, H., **Ye, Y.**, Griffoll, M., Liu, G., & Zheng, P. (2023). Identification of risk influential factors for fishing vessel accident using claims data from fisheries mutual insurance association. *Sustainability*, 15(18), 13427. (SCI/SSCI, JCR Q2)
  * **Ye, Y.**, Wong, S.C., Li, Y.C., & Choi, K.M. (2023). Crossing behaviors of drunk pedestrians unfamiliar with local traffic rules. *Safety Science*, 157, 105924. (SCI, JCR Q1)
