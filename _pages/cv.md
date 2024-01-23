@@ -65,6 +65,7 @@ Service
 ======
 * Journal Reviewer
   * IEEE Transactions on Intelligent Transportation Systems
+  * Transportation Research Part F: Traffic Psychology and Behaviour
   * Journal of Transportation Safety & Security
   * Transportmetrica A: Transport Science
 * Membership
