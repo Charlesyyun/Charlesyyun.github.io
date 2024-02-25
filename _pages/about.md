@@ -45,6 +45,7 @@ Dr. Yun (Charles) YE is an Associate Professor in the Faculty of Maritime and Tr
   * Human-Vehicle Interaction Safety in Port Road Areas under Autonomous Driving Conditions (PI, Talent Start-up Fund, Ningbo University, Project No. ZX2023000249, 2023-2026)
   * Urban Intersection Holographic Perception Layout and Control Strategy (Co-PI, Huawei Techonologies Co., Ltd., 2022-2023)
   * Smart Scheduling Algorithm for Electric Buses (Co-PI, Huawei Techonologies Co., Ltd., 2021-2023)
+  * Dynamic Macroscopic Modeling of Crowd Dynamics under Panic Conditions (GRA, General Research Fund, Research Grants Council, Hong Kong SAR Government, Project No. 17201318, 2019-2021)
   * Risks to Pedestrians of Crossing in a Traffic System with Different Driving Rules (GRA, General Research Fund, Research Grants Council, Hong Kong SAR Government, Project No. 17203017, 2018-2020)
   * Multi-user voice-driven BIM-based navigation system for fire emergency response (GRA, U21 Graduate Collaborative Research Awards, Universitas 21, 2018-2019)
   * Traffic Flow Modeling and Operational Strategies Optimization for Urban Transportation Corridor Simulations (GRA, National Natural Science Foundation of China, China, Project No. 51508505, 2016-2018)
