@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Yun (Charles) YE is an Associate Professor in the Faculty of Maritime and Transportation, [Ningbo University](https://www.nbu.edu.cn/) (NBU). Dr. YE received his B.E. and Ph. D. degree from [Zhejiang University](https://www.zju.edu.cn/) (ZJU) and [The University of Hong Kong](https://www.hku.hk/) (HKU), in 2017 and 2021, respectively. During 2021-2023, he served as research engineer at Central Research Institute and Central Media Technology Institute, 2012 Lab, [Huawei Technologies Co., Ltd.](https://www.huawei.com/cn/). He was an awardee of Yongjiang Talent-Young Innovative, Top Talent by Ningbo City, Yue-Kong Pao Young Top Scholar by Ningbo University, and Civil Centennial Future Scholars by the University of Hong Kong. 
+Dr. Yun (Charles) YE is an Associate Professor in the Faculty of Maritime and Transportation, [Ningbo University](https://www.nbu.edu.cn/) (NBU). Dr. YE received his B.E. and Ph. D. degree from [Zhejiang University](https://www.zju.edu.cn/) (ZJU) and [The University of Hong Kong](https://www.hku.hk/) (HKU), in 2017 and 2021, respectively. During 2021-2023, he served as research engineer at Central Research Institute and Central Media Technology Institute, 2012 Lab, [Huawei Technologies Co., Ltd.](https://www.huawei.com/cn/). He was an awardee of Yongjiang Talent-Young Innovative, Top Talent by Ningbo City, Yue-Kong Pao Young Top Scholar by Ningbo University, and Civil Centennial Future Scholars by the University of Hong Kong. Dr. YE has published more than 10 papers in prestigious journals and conferences, including Safety Science, Accident Analysis and Prevention, Travel Behaviour and Society, TRB Annual Meeting, etc. and serves as reviewers for IEEE TITS, TR-Part F, Transportmetrica A: Transport Science, Journal of Transportation Safety & Security, etc. He has also been responsible for or participated in more than 10 research and practical projects.
 
 # Research Interests
  * VR/AR-based Simulation
@@ -41,6 +41,7 @@ Dr. Yun (Charles) YE is an Associate Professor in the Faculty of Maritime and Tr
   * Virtual Reality-based Study of Pedestrian-Vehicle Interaction Behavior and Risk in Port Automated Driving Environment (PI, Ningbo Yongjiang Talent Project Young Innovative Talent Program, Ningbo Government, Project No. ZX2024000003, 2024-2028)
   * Human-Vehicle Interaction Safety in Port Road Areas under Autonomous Driving Conditions (PI, Talent Start-up Fund, Ningbo University, Project No. ZX2023000249, 2023-2026)
   * Urban Intersection Holographic Perception Layout and Control Strategy (Co-PI, Huawei Techonologies Co., Ltd., 2022-2023)
+  * Key Technologies of Simulation Platform for Intelligent Highways (Co-I, Huawei Techonologies Co., Ltd., 2022-2023)
   * Smart Scheduling Algorithm for Electric Buses (Co-PI, Huawei Techonologies Co., Ltd., 2021-2023)
   * Dynamic Macroscopic Modeling of Crowd Dynamics under Panic Conditions (GRA, General Research Fund, Research Grants Council, Hong Kong SAR Government, Project No. 17201318, 2019-2021)
   * Risks to Pedestrians of Crossing in a Traffic System with Different Driving Rules (GRA, General Research Fund, Research Grants Council, Hong Kong SAR Government, Project No. 17203017, 2018-2020)
