@@ -68,6 +68,8 @@ Service
   * Transportation Research Part F: Traffic Psychology and Behaviour
   * Journal of Transportation Safety & Security
   * Transportmetrica A: Transport Science
+* Conference Reviewer
+  * IEEE International Conference on Intelligent Transportation Systems
 * Membership
   * IEEE Member
   * IEEE Intelligent Transportation Systems Society Member
