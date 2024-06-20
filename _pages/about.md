@@ -20,10 +20,10 @@ Dr. Yun (Charles) YE is an Associate Professor in the Faculty of Maritime and Tr
    
 # Selected Publications
 ## Journal Papers
- * **Ye, Y.**, Zheng, P., Liang, H., Chen, X., Wong, S.C., & Xu, P. (2024). Safety or efficiency? Estimating crossing motivations of intoxicated pedestrians by leveraging the inverse reinforcement learning. *Travel Behaviour and Society*, 35, 100760. (SSCI, JCR Q2, IF 5.200)
+ * **Ye, Y.**, Zheng, P., Liang, H., Chen, X., Wong, S.C., & Xu, P. (2024). Safety or efficiency? Estimating crossing motivations of intoxicated pedestrians by leveraging the inverse reinforcement learning. *Travel Behaviour and Society*, 35, 100760. (SSCI, JCR Q1, IF 5.1)
  * **Ye, Y.**, Wong, S.C., Li, Y.C., & Choi, K.M. (2023). Crossing behaviors of drunk pedestrians unfamiliar with local traffic rules. *Safety Science*, 157, 105924. (SCI, JCR Q1, Top, IF 6.392)
- * **Ye, Y.**, Wong, S.C., Meng, F., & Xu, P. (2021). Right-looking habit and maladaptation of pedestrians in areas with unfamiliar driving rules. *Accident Analysis & Prevention*, 150, 105921. (SSCI, JCR Q1, Top, IF 6.376)
- * **Ye, Y.**, Wong, S.C., Li, Y.C., & Lau, Y.K. (2020). Risks to pedestrians in traffic systems with unfamiliar driving rules: A virtual reality approach. *Accident Analysis & Prevention*, 142, 105565. (SSCI, JCR Q1, Top, IF 6.376)
+ * **Ye, Y.**, Wong, S.C., Meng, F., & Xu, P. (2021). Right-looking habit and maladaptation of pedestrians in areas with unfamiliar driving rules. *Accident Analysis & Prevention*, 150, 105921. (SSCI, JCR Q1, Top, IF 5.7)
+ * **Ye, Y.**, Wong, S.C., Li, Y.C., & Lau, Y.K. (2020). Risks to pedestrians in traffic systems with unfamiliar driving rules: A virtual reality approach. *Accident Analysis & Prevention*, 142, 105565. (SSCI, JCR Q1, Top, IF 5.7)
 
 ## Conference Papers and Presentations
  * Liang, H., **Ye, Y.**, & Sun, J. (2024) A micro-macro approach to modeling the flocking of crowd dynamics. *The 103rd Annual Meeting of Transportation Research Board*, Washington DC, United States, January 7-11, 2024. [Poster Presentation]
