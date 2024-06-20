@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-11-16-aging-taxi
 date: 2023-11-16
 venue: 'Sustainability'
-excerpt: "SCI/SSCI Q2, IF 3.900"
+excerpt: "SCI/SSCI Q2, IF 3.3"
 paperurl: 'https://doi.org/10.3390/su152216096'
 citation: 'Lin, X., Huang, Z., Ye, Y., Dong, J., Feng, H.*, & Zheng, P.* (2023). &quot;Effects of Aging on Taxi Service Performance: A Comparative Study Based on Different Age Groups.&quot; <i>Sustainability</i>, 15(22), 16096.'
 ---
