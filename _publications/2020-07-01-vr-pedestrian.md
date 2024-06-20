@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-07-01-vr-pedestrian
 date: 2020-07-01
 venue: 'Accident Analysis & Prevention'
-excerpt: "SSCI Q1, IF 6.376"
+excerpt: "SSCI Q1, IF 5.7"
 paperurl: 'https://doi.org/10.1016/j.aap.2020.105565'
 citation: 'Ye, Y., Wong, S.C.*, Li, Y.C., & Lau, Y.K. (2020). &quot;Risks to pedestrians in traffic systems with unfamiliar driving rules: A virtual reality approach.&quot; <i>Accident Analysis & Prevention</i>, 142, 105565.'
 ---
