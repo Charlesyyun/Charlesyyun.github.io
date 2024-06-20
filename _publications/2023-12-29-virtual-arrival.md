@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-12-29-virtual-arrival
 date: 2023-12-29
 venue: 'Sustainability'
-excerpt: "SCI/SSCI Q2, IF 3.900"
+excerpt: "SCI/SSCI Q2, IF 3.3"
 paperurl: 'https://doi.org/10.3390/su16010403'
 citation: 'Shao, T., Du, W., Ye, Y., Li, H., Dong, J., Liu, G.*, & Zheng, P.* (2024). &quot;A Novel Virtual Arrival Optimization Method for Traffic Organization Scenarios.&quot; <i>Sustainability</i>, 16(1), 403.'
 ---
