@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-02-08-irl-drunk-ped
 date: 2024-02-08
 venue: 'Travel Behaviour and Society'
-excerpt: "SSCI Q2, IF 5.200"
+excerpt: "SSCI Q1, IF 5.1"
 paperurl: 'https://doi.org/10.1016/j.tbs.2024.100760'
 citation: 'Ye, Y., Zheng, P., Liang, H., Chen, X., Wong, S.C., & Xu, P.* (2024). &quot;Safety or efficiency? Estimating crossing motivations of intoxicated pedestrians by leveraging the inverse reinforcement learning.&quot; <i>Travel Behaviour and Society</i>, 35, 100760.'
 ---
