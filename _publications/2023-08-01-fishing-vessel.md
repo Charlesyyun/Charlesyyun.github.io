@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-08-01-fishing-vessel
 date: 2023-08-01
 venue: 'Sustainability'
-excerpt: "SCI/SSCI Q2, IF 3.900"
+excerpt: "SCI/SSCI Q2, IF 3.3"
 paperurl: 'https://doi.org/10.3390/su151813427'
 citation: 'Wang, F., Du, W., Feng, H., Ye, Y., Griffoll, M., Liu, G.*, & Zheng, P.* (2023). &quot;Identification of risk influential factors for fishing vessel accident using claims data from fisheries mutual insurance association.&quot; <i>Sustainability</i>, 15(18), 13427.'
 ---
