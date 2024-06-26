@@ -76,3 +76,4 @@ Service
   * IEEE Intelligent Transportation Systems Society Member
   * IEEE Signal Processing Society Member
   * IEEE Vehicular Technology Society Member
+  * Ningbo Municipal Bureau of Science and Technology Expert Database Member
