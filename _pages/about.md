@@ -26,6 +26,7 @@ Dr. Yun (Charles) YE is an Associate Professor in the Faculty of Maritime and Tr
  * **Ye, Y.**, Wong, S.C., Li, Y.C., & Lau, Y.K. (2020). Risks to pedestrians in traffic systems with unfamiliar driving rules: A virtual reality approach. *Accident Analysis & Prevention*, 142, 105565. (SSCI, JCR Q1, Top, IF 5.7)
 
 ## Conference Papers and Presentations
+ * **Ye, Y.**, Che, Y., & Liang, H. (2024) Exploring the Influence of Pedestrian Attitude, Propensity, and Risk Perception on Gap Acceptance between Platooning Autonomous Trucks. *The 27th IEEE International Conference on Intelligent Transportation Systems (ITSC) (ITSC 2024)*, Edmonton, Canada, September 24-27, 2024. [Poster Presentation]
  * Liang, H., **Ye, Y.**, & Sun, J. (2024) A micro-macro approach to modeling the flocking of crowd dynamics. *The 103rd Annual Meeting of Transportation Research Board*, Washington DC, United States, January 7-11, 2024. [Poster Presentation]
  * Liang, H., Sun, J., & **Ye, Y.** (2023) Modeling the stochastic pedestrian fundamental diagram with explicit considerations of bidirectional conflict. *The 27th Hong Kong Society for Transportation Studies International Conference*, Hong Kong, China, December 11-12, 2023. [Poster Presentation]
  * **Ye, Y.** (2019) Risks to pedestrians in traffic systems with unfamiliar driving rules. *The 24th Hong Kong Society for Transportation Studies International Conference*, Hong Kong, China, December 14-16, 2019. [Oral Presentation]
