@@ -20,18 +20,18 @@ Dr. Yun (Charles) YE is an Associate Professor in the Faculty of Maritime and Tr
    
 # Selected Publications
 ## Journal Papers
- * **Ye, Y.**, Zheng, P., Liang, H., Chen, X., Wong, S.C., & Xu, P.* (2024). Safety or efficiency? Estimating crossing motivations of intoxicated pedestrians by leveraging the inverse reinforcement learning. *Travel Behaviour and Society*, 35, 100760. (SSCI, JCR Q1, IF 5.1)
- * **Ye, Y.**, Wong, S.C.*, Li, Y.C., & Choi, K.M. (2023). Crossing behaviors of drunk pedestrians unfamiliar with local traffic rules. *Safety Science*, 157, 105924. (SCI, JCR Q1, Top, IF 4.7)
- * **Ye, Y.**, Wong, S.C.*, Meng, F., & Xu, P. (2021). Right-looking habit and maladaptation of pedestrians in areas with unfamiliar driving rules. *Accident Analysis & Prevention*, 150, 105921. (SSCI, JCR Q1, Top, IF 5.7)
- * **Ye, Y.**, Wong, S.C.*, Li, Y.C., & Lau, Y.K. (2020). Risks to pedestrians in traffic systems with unfamiliar driving rules: A virtual reality approach. *Accident Analysis & Prevention*, 142, 105565. (SSCI, JCR Q1, Top, IF 5.7)
+ * **Ye, Y.**, Zheng, P., Liang, H., Chen, X., Wong, S.C., & Xu, P.\* (2024). Safety or efficiency? Estimating crossing motivations of intoxicated pedestrians by leveraging the inverse reinforcement learning. *Travel Behaviour and Society*, 35, 100760. (SSCI, JCR Q1, IF 5.1)
+ * **Ye, Y.**, Wong, S.C.\*, Li, Y.C., & Choi, K.M. (2023). Crossing behaviors of drunk pedestrians unfamiliar with local traffic rules. *Safety Science*, 157, 105924. (SCI, JCR Q1, Top, IF 4.7)
+ * **Ye, Y.**, Wong, S.C.\*, Meng, F., & Xu, P. (2021). Right-looking habit and maladaptation of pedestrians in areas with unfamiliar driving rules. *Accident Analysis & Prevention*, 150, 105921. (SSCI, JCR Q1, Top, IF 5.7)
+ * **Ye, Y.**, Wong, S.C.\*, Li, Y.C., & Lau, Y.K. (2020). Risks to pedestrians in traffic systems with unfamiliar driving rules: A virtual reality approach. *Accident Analysis & Prevention*, 142, 105565. (SSCI, JCR Q1, Top, IF 5.7)
 
 ## Conference Papers and Presentations
- * **Ye, Y.***, Che, Y., & Liang, H. (2024) Exploring the Influence of Pedestrian Attitude, Propensity, and Risk Perception on Gap Acceptance between Platooning Autonomous Trucks. *The 27th IEEE International Conference on Intelligent Transportation Systems (ITSC) (ITSC 2024)*, Edmonton, Canada, September 24-27, 2024. (EI)
- * Liang, H.*, **Ye, Y.**, & Sun, J. (2024) A micro-macro approach to modeling the flocking of crowd dynamics. *The 103rd Annual Meeting of Transportation Research Board*, Washington DC, United States, January 7-11, 2024.
- * Liang, H.*, Sun, J., & **Ye, Y.** (2023) Modeling the stochastic pedestrian fundamental diagram with explicit considerations of bidirectional conflict. *The 27th Hong Kong Society for Transportation Studies International Conference*, Hong Kong, China, December 11-12, 2023.
- * **Ye, Y.*** (2019) Risks to pedestrians in traffic systems with unfamiliar driving rules. *The 24th Hong Kong Society for Transportation Studies International Conference*, Hong Kong, China, December 14-16, 2019.
- * **Ye, Y.**, Chen, X.* (2018) Simulation-based optimization for time-of-day coordinated ramp metering of a large-scale urban expressway network. *The 97th Annual Meeting of Transportation Research Board, Washington DC*, United States, January 7-11, 2018.
- * Chen, X.*, Zhang, S., Shen, K., **Ye, Y.** & Sun, W. (2016) Big Data Driven Simulation-Based Dynamic Traffic Assignment and Empirical Studies. *The 11th Annual Conference of ITS China*, Chongqing, China, November 16-18, 2016. [Best Paper Award]
+ * **Ye, Y.**\*, Che, Y., & Liang, H. (2024) Exploring the Influence of Pedestrian Attitude, Propensity, and Risk Perception on Gap Acceptance between Platooning Autonomous Trucks. *The 27th IEEE International Conference on Intelligent Transportation Systems (ITSC) (ITSC 2024)*, Edmonton, Canada, September 24-27, 2024. (EI)
+ * Liang, H.\*, **Ye, Y.**, & Sun, J. (2024) A micro-macro approach to modeling the flocking of crowd dynamics. *The 103rd Annual Meeting of Transportation Research Board*, Washington DC, United States, January 7-11, 2024.
+ * Liang, H.\*, Sun, J., & **Ye, Y.** (2023) Modeling the stochastic pedestrian fundamental diagram with explicit considerations of bidirectional conflict. *The 27th Hong Kong Society for Transportation Studies International Conference*, Hong Kong, China, December 11-12, 2023.
+ * **Ye, Y.**\* (2019) Risks to pedestrians in traffic systems with unfamiliar driving rules. *The 24th Hong Kong Society for Transportation Studies International Conference*, Hong Kong, China, December 14-16, 2019.
+ * **Ye, Y.**, Chen, X.\* (2018) Simulation-based optimization for time-of-day coordinated ramp metering of a large-scale urban expressway network. *The 97th Annual Meeting of Transportation Research Board, Washington DC*, United States, January 7-11, 2018.
+ * Chen, X.\*, Zhang, S., Shen, K., **Ye, Y.** & Sun, W. (2016) Big Data Driven Simulation-Based Dynamic Traffic Assignment and Empirical Studies. *The 11th Annual Conference of ITS China*, Chongqing, China, November 16-18, 2016. [Best Paper Award]
 
 ## Theses
  * **Ye, Y.** (2021). Pedestrian Crossing Behavior in Areas with Unfamiliar Driving Rules. Ph.D. Thesis, The University of Hong Kong.
