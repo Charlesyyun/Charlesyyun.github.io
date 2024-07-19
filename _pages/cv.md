@@ -71,6 +71,8 @@ Service
   * Transportmetrica A: Transport Science
 * Conference Reviewer
   * IEEE International Conference on Intelligent Transportation Systems
+* Organizer
+  * The 27th IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC 2024) Workshop: Advanced Modeling, Evaluation, and Simulation of Interactions in Mixed Traffic Comprising Pedestrians, Automated Vehicles, and Human-driven Vehicles
 * Membership
   * IEEE Member
   * IEEE Intelligent Transportation Systems Society Member
