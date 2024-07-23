@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+🎓 Education
 ======
 * Ph.D in Traffic and Transportation Engineering, The University of Hong Kong (HKU), 2017-2021
   * Supervisor: [Prof. S.C. Wong](https://www.civil.hku.hk/scwong/)
@@ -17,7 +17,7 @@ Education
 * B.Eng. in Civil Engineering, Zhejiang University (ZJU), 2013-2017
   * Supervisor: [Prof. Xiqun (Michael) Chen](https://person.zju.edu.cn/en/xiqun)
 
-Professional Experience
+💼 Professional Experience
 ======
 * Mar 2023 - Present: Associate Professor 
   * Faculty of Maritime and Transportation, Ningbo University (NBU)
@@ -38,31 +38,31 @@ Professional Experience
   * HKU Civil Centennial Future Scholars-CCFS, research internship at The University of Hong Kong, research focused on the travelling behaviors and patterns of tourists in Hong Kong.
   * Supervisor: [Prof. S.C. Wong](https://www.civil.hku.hk/scwong/)
 
-Publications
+📄 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Conferences
+🏛️ Conferences
 ======
   <ul>{% for post in site.conferences %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Patents
+💡 Patents
 ======
   <ul>{% for post in site.patents %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+👨‍🏫 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service
+🤝 Service
 ======
 * Journal Reviewer
   * IEEE Transactions on Intelligent Transportation Systems
