@@ -33,7 +33,7 @@ Dr. Yun (Charles) YE is an Associate Professor in the Faculty of Maritime and Tr
  * **Ye, Y.**, Chen, X.\* (2018) Simulation-based optimization for time-of-day coordinated ramp metering of a large-scale urban expressway network. *The 97th Annual Meeting of Transportation Research Board, Washington DC*, United States, January 7-11, 2018. (Poster)
  * Chen, X.\*, Zhang, S., Shen, K., **Ye, Y.** & Sun, W. (2016) Big Data Driven Simulation-Based Dynamic Traffic Assignment and Empirical Studies. *The 11th Annual Conference of ITS China*, Chongqing, China, November 16-18, 2016. [Best Paper Award]
 
-## :mortar_board: Theses
+## 🎓 Theses
  * **Ye, Y.** (2021). Pedestrian Crossing Behavior in Areas with Unfamiliar Driving Rules. Ph.D. Thesis, The University of Hong Kong.
  * **Ye, Y.** (2017). Simulation-Based Optimization for Time-of-Day Coordinated Ramp Metering of a Large-Scale Urban Expressway Network. B.Eng. Thesis, Zhejiang University.
 
