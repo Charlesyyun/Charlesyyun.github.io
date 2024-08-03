@@ -19,22 +19,20 @@ redirect_from:
 
 💼 Professional Experience
 ======
-* Mar 2023 - Present: Associate Professor 
-  * Faculty of Maritime and Transportation, Ningbo University (NBU)
-  * Yongjiang Talent (Young Innovative), Ningbo
-  * Top Talent, Ningbo
-  * Yue-Kong Pao Young Top Scholar, Ningbo University (NBU)
+* Mar 2023 - Present: Associate Professor, Faculty of Maritime and Transportation, Ningbo University (NBU)
+  * Focusing on research areas such as virtual reality, human factors, traffic safety, and pedestrian-autonomous vehicle interaction.
+  * Awarded Yongjiang Talent (Young Innovative) and Top Talent by Ningbo, Yue-Kong Pao Young Top Scholar by Ningbo University (NBU).
 
-* Sep 2022 - Feb 2023: AI Computer Vision/Image Processing Algorithm Engineer
-  * Central Media Technology Institute, 2012 Lab, Huawei Technologies
-  * Focusing on researches and applications of deep learning, computational photography, image signal processing and low-level computer vision.
+* Sep 2022 - Feb 2023: AI Computer Vision/Image Processing Algorithm Engineer, Central Media Technology Institute, 2012 Lab, Huawei Technologies
+  * Engaged in research and applications in areas such as deep learning, computational photography, and low-level computer vision, with a focus on Tone Mapping technology research in the end-to-end HDR Vivid chain. The team proposed a Local Tone Mapping (LTM) algorithm based on minimalist neural networks, presenting richer colors and layers, improving contrast, enhancing image depth and details, and reducing power consumption by over 15%. The algorithm was highly recognized by Li Xiaolong, the Vice President of the terminal product line, and was implemented in Huawei's flagship products Mate50 and P60, supporting the selling point of HDR Vivid photography features. The products were rated first in their debut on the authoritative DXOMARK.
+  * Honored with the Huawei Mate50 Flagship HDR Vivid Competitive Delivery Award, the Central Media Technology Institute Presidential Team Award - Technology Breakthrough and Contribution Award, and the Huawei Company 2022 Annual Award - Innovation and Technology Breakthrough Award: Audio and Video Dual Vivid Standard and Key Technology Competitive Team.
 
-* Nov 2021 - Sep 2022: Research Engineer
-  * Central Research Institute, 2012 Lab, Huawei Technologies
-  * Focusing on researches and applications of simulation and optimization of intelligent transportations systems, traffic management and control with traffic big data.
+* Nov 2021 - Sep 2022: Research Engineer, Central Research Institute, 2012 Lab, Huawei Technologies
+  * Engaged in the simulation and optimization of intelligent transportation systems, as well as research and applications for traffic management and control based on big traffic data.
+  * As one of the main contributors, proposed a method for accelerating traffic simulation parallel computing, which was recognized as a high-potential patent in the 2012 laboratory.
+  * The team's development of real-time traffic flow simulation and prediction technology was implemented in the IOT cloud control product line, contributing to the successful bid of the Jiangxi Liwen Expressway project by the Smart Highway Legion. The team was honored with the 2012 Laboratory Presidential Team Award.
 
-* Summer 2016: Research Assistant ([HKU Civil Centennial Future Scholars](https://www.civil.hku.hk/hkuccfs/))
-  * The University of Hong Kong
+* Summer 2016: Research Assistant ([HKU Civil Centennial Future Scholars](https://www.civil.hku.hk/hkuccfs/)), The University of Hong Kong
   * HKU Civil Centennial Future Scholars-CCFS, research internship at The University of Hong Kong, research focused on the travelling behaviors and patterns of tourists in Hong Kong.
   * Supervisor: [Prof. S.C. Wong](https://www.civil.hku.hk/scwong/)
 
