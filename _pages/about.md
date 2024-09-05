@@ -31,7 +31,7 @@ Dr. Yun (Charles) YE is an Associate Professor in the Faculty of Maritime and Tr
  * Liang, H.\*, **Ye, Y.**, & Sun, J. (2024, January 7-11). A micro-macro approach to modeling the flocking of crowd dynamics [Poster Presentation]. *The 103rd Annual Meeting of Transportation Research Board*, Washington DC, United States.
  * Liang, H.\*, Sun, J., & **Ye, Y.** (2023, December 11-12). Modeling the stochastic pedestrian fundamental diagram with explicit considerations of bidirectional conflict [Poster Presentation]. *The 27th Hong Kong Society for Transportation Studies International Conference*, Hong Kong, China.
  * **Ye, Y.**\* (2019, December 14-16). Risks to pedestrians in traffic systems with unfamiliar driving rules [Oral Presentation]. *The 24th Hong Kong Society for Transportation Studies International Conference*, Hong Kong, China.
- * **Ye, Y.**, & Chen, X.\* (2018, January 7-11). Simulation-based optimization for time-of-day coordinated ramp metering of a large-scale urban expressway network [Poster Presentation]. *The 97th Annual Meeting of Transportation Research Board, Washington DC*, United States.
+ * **Ye, Y.**, & Chen, X.\* (2018, January 7-11). Simulation-based optimization for time-of-day coordinated ramp metering of a large-scale urban expressway network [Poster Presentation]. *The 97th Annual Meeting of Transportation Research Board*, Washington DC, United States.
  * Chen, X.\*, Zhang, S., Shen, K., **Ye, Y.** & Sun, W. (2016, November 16-18). Big Data Driven Simulation-Based Dynamic Traffic Assignment and Empirical Studies [Oral Presentation]. *The 11th Annual Conference of ITS China*, Chongqing, China. (**Best Paper Award**)
 
 ## 🎓 Theses
