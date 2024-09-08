@@ -37,7 +37,7 @@ Dr. Yun (Charles) YE is an Associate Professor in the Faculty of Maritime and Tr
 ## 📝 Working Papers
  * **Ye, Y.**, Liang, H., Sun, J., & Chen, X.\* (2024). Distance-Informed Neural Eikonal Solver for Reactive Dynamic User-Equilibrium of Macroscopic Continuum Traffic Flow Model. *IEEE Transactions on Intelligent Transportation Systems*, Under Review. (**SSCI, JCR Q1, Top, IF 7.9**)
  * Xu, P., Wang, Q., **Ye, Y.**, Wong, S.C., & Zhou, H.\* (2024). Text as data: narrative mining of non-collision injury incidents on public buses by structural topic modeling. *Travel Behaviour and Society*, Under Review. (**SSCI, JCR Q1, IF 5.1**)
- * **Ye. Y.**\*, Liang, H., Sun, J., & Chen, X. (2024, Dec 9-10). Distance-Informed Neural Eikonal Solver for Reactive Dynamic User-Equilibrium of Macroscopic Continuum Traffic Flow Model [Under Review]. *The 28th International Conference of Hong Kong Society for Transportation Studies*, Hong Kong, China.
+ * **Ye. Y.**\*, Liang, H., Sun, J., & Chen, X. (2024, December 9-10). Distance-Informed Neural Eikonal Solver for Reactive Dynamic User-Equilibrium of Macroscopic Continuum Traffic Flow Model [Under Review]. *The 28th International Conference of Hong Kong Society for Transportation Studies*, Hong Kong, China.
  * Li, Z., Che, Y., Zhou, Z., Liang, H., & **Ye, Y.**\* (2025, July 22-25). Is eHMI always helpful? Investigating interference of eHMI on pedestrians interacting with autonomous vehicles on multi-lane streets: A virtual reality-based experiment [Under Review]. *The 25th COTA International Conference of Transportation Professionals (CICTP2025)*, Guangzhou, China.
 
 ## 🎓 Theses
