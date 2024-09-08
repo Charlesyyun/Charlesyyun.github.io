@@ -34,6 +34,11 @@ Dr. Yun (Charles) YE is an Associate Professor in the Faculty of Maritime and Tr
  * **Ye, Y.**, & Chen, X.\* (2018, January 7-11). Simulation-based optimization for time-of-day coordinated ramp metering of a large-scale urban expressway network [Poster Presentation]. *The 97th Annual Meeting of Transportation Research Board*, Washington DC, United States.
  * Chen, X.\*, Zhang, S., Shen, K., **Ye, Y.** & Sun, W. (2016, November 16-18). Big Data Driven Simulation-Based Dynamic Traffic Assignment and Empirical Studies [Oral Presentation]. *The 11th Annual Conference of ITS China*, Chongqing, China. (**Best Paper Award**)
 
+## 📝 Working Papers
+ * **Ye, Y.**, Liang, H., Sun, J., & Chen, X.\* (2024). Distance-Informed Neural Eikonal Solver for Reactive Dynamic User-Equilibrium of Macroscopic Continuum Traffic Flow Model. *IEEE Transactions on Intelligent Transportation Systems*, Under Review. (**SSCI, JCR Q1, Top, IF 7.9**)
+ * Xu, P., Wang, Q., **Ye, Y.**, Wong, S.C., & Zhou, H.\* (2024). Text as data: narrative mining of non-collision injury incidents on public buses by structural topic modeling. *Travel Behaviour and Society*, Under Review. (**SSCI, JCR Q1, IF 5.1**)
+ * Li, Z., Che, Y., Zhou, Z., Liang, H., & **Ye, Y.**\* (2025, July 22-25). Is eHMI always helpful? Investigating interference of eHMI on pedestrians interacting with autonomous vehicles on multi-lane streets: A virtual reality-based experiment [Under Review]. *The 25th COTA International Conference of Transportation Professionals (CICTP2025)*, Guangzhou, China.
+
 ## 🎓 Theses
  * **Ye, Y.** (2021). Pedestrian Crossing Behavior in Areas with Unfamiliar Driving Rules. Ph.D. Thesis, The University of Hong Kong.
  * **Ye, Y.** (2017). Simulation-Based Optimization for Time-of-Day Coordinated Ramp Metering of a Large-Scale Urban Expressway Network. B.Eng. Thesis, Zhejiang University.
