@@ -1,0 +1,11 @@
+---
+title: "Assessment Method for Attention Allocation Mechanism of Pedestrian Crossing Based on Virtual Reality Simulation"
+excerpt: "Ye, Y., Li, Z., Liang, H., Sun, J., Che, Y. & Zhou, Z. (2024) Assessment Method for Attention Allocation Mechanism of Pedestrian Crossing Based on Virtual Reality Simulation. Application No.: 202411328427.4, Sep 24, 2024."
+collection: patents
+---
+The present invention provides an assessment method for the attention allocation mechanism of pedestrians crossing the street based on virtual reality simulation, including the following steps:
+Step S1: Obtain eye-tracking data during the simulated pedestrian crossing process, as well as trajectory coordinate data for pedestrians and each moving vehicle.
+Step S2: Convert each moving vehicle into an axis-aligned bounding box and simulate the generation of pedestrian gaze rays based on eye-tracking data. Additionally, determine the maximum and minimum vertex values of the axis-aligned bounding box based on the trajectory coordinate data.
+Step S3: Based on the gaze rays, obtain the maximum and minimum parameters for the gaze rays entering the axis-aligned bounding box using the maximum and minimum vertex values.
+Step S4: Match the maximum and minimum parameters with intersection conditions to obtain gaze duration results, characterizing the attention allocation of pedestrians while crossing the street.
+The beneficial effect of the present invention is that it can address the defects of traditional methods, such as uncontrolled experimental environments, incomplete data acquisition, safety issues, and low accuracy.
