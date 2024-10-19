@@ -49,6 +49,26 @@ For more details of our group, please visit: [Traffic Safety and Intelligence La
   * Urban Intersection Holographic Perception Layout and Control Strategy (Co-PI, Huawei Techonologies Co., Ltd., 2022-2023)
   * Smart Scheduling Algorithm for Electric Buses (Co-PI, Huawei Techonologies Co., Ltd., 2021-2023)
 
+# Service
+* Journal Reviewer
+  * IEEE Transactions on Intelligent Transportation Systems
+  * Transport Policy
+  * Transportation Research Part F: Traffic Psychology and Behaviour
+  * Journal of Transportation Safety & Security
+  * Transportmetrica A: Transport Science
+* Conference Reviewer
+  * IEEE International Conference on Intelligent Transportation Systems
+  * IEEE International Conference on Vehicular Electronics and Safety
+* Organizer
+  * The 27th IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC 2024) Workshop: [*Advanced Modeling, Evaluation, and Simulation of Interactions in Mixed Traffic Comprising Pedestrians, Automated Vehicles, and Human-driven Vehicles*](https://sites.google.com/view/workshop-itsc-2024/)
+* Membership
+  * IEEE Member
+  * IEEE Intelligent Transportation Systems Society Member
+  * IEEE Signal Processing Society Member
+  * IEEE Vehicular Technology Society Member
+  * Chinese Association for Artificial Intelligence Member
+  * Ningbo Municipal Bureau of Science and Technology Expert Database Member
+
 # 📬 Mailing Address
 <address>
   Faculty of Maritime and Transportation <br /> Ningbo University (NBU) <br /> No. 818 Fenghua Rd., Jiangbei District <br /> Ningbo 315211, China
