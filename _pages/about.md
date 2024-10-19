@@ -13,12 +13,11 @@ Dr. Yun (Charles) YE is an Associate Professor in the Faculty of Maritime and Tr
 For more details of our group, please visit: [Traffic Safety and Intelligence Laboratory, TSI Lab](https://lab.rjmart.cn/10969/tsilab)
 
 # 🔥 Research Interests
- * VR/AR-based Simulation
- * Human Factors
- * Pedestrian Behaviors
- * Traffic Safety
- * Pedestrian-AVs Interaction
-
+ * Traffic safety
+ * Virtual reality
+ * Human factors
+ * Traffic simulation and optimization
+ * Intelligent transportation systems
    
 # 📝 Selected Publications 
 ## 📖 Journal Papers
