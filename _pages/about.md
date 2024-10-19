@@ -69,7 +69,7 @@ For more details of our group, please visit: [Traffic Safety and Intelligence La
   * Chinese Association for Artificial Intelligence Member
   * Ningbo Municipal Bureau of Science and Technology Expert Database Member
 
-# 📬 Mailing Address
+# Mailing Address
 <address>
   Faculty of Maritime and Transportation <br /> Ningbo University (NBU) <br /> No. 818 Fenghua Rd., Jiangbei District <br /> Ningbo 315211, China
 </address>
