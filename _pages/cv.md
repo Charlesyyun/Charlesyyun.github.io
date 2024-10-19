@@ -36,6 +36,20 @@ redirect_from:
   * HKU Civil Centennial Future Scholars-CCFS, research internship at The University of Hong Kong, research focused on the travelling behaviors and patterns of tourists in Hong Kong.
   * Supervisor: [Prof. S.C. Wong](https://www.civil.hku.hk/scwong/)
 
+📁 Research Projects
+======
+  * Modeling the Mechanism of Pedestrian-Vehicle Interaction and Optimizing Decisions for Autonomous Vehicles in Ports under the Influence of external Human-Machine Interfaces (PI, Natural Science Foundation of Ningbo, Young Doctoral Innovation Research Project, Ningbo Government, 2024-2027)
+  * Virtual Reality-based Study of Pedestrian-Vehicle Interaction Behavior and Risk in Port Automated Driving Environment (PI, Ningbo Yongjiang Talent-Young Innovative Talent Project, Ningbo Government, Project No. ZX2024000003, 2024-2028)
+  * Human-Vehicle Interaction Safety in Port Road Areas under Autonomous Driving Conditions (PI, Talent Start-up Fund, Ningbo University, Project No. ZX2023000249, 2023-2026)
+  * Urban Intersection Holographic Perception Layout and Control Strategy (Co-PI, Huawei Techonologies Co., Ltd., 2022-2023)
+  * Key Technologies of Simulation Platform for Intelligent Highways (Co-I, Huawei Techonologies Co., Ltd., 2022-2023)
+  * Smart Scheduling Algorithm for Electric Buses (Co-PI, Huawei Techonologies Co., Ltd., 2021-2023)
+  * Dynamic Macroscopic Modeling of Crowd Dynamics under Panic Conditions (GRA, General Research Fund, Research Grants Council, Hong Kong SAR Government, Project No. 17201318, 2019-2021)
+  * Risks to Pedestrians of Crossing in a Traffic System with Different Driving Rules (GRA, General Research Fund, Research Grants Council, Hong Kong SAR Government, Project No. 17203017, 2018-2020)
+  * Multi-user voice-driven BIM-based navigation system for fire emergency response (GRA, U21 Graduate Collaborative Research Awards, Universitas 21, 2018-2019)
+  * Traffic Flow Modeling and Operational Strategies Optimization for Urban Transportation Corridor Simulations (GRA, National Natural Science Foundation of China, China, Project No. 51508505, 2016-2018)
+  * Traffic Simulation and Integrated Control Optimization Strategy for the Main Urban Road Network of Hangzhou (GRA, Zhejiang Intelligent Transportation Engineering Technology Research Center, 2015-2016)
+
 🎖 Honors and Awards
 ======
 * 2023
