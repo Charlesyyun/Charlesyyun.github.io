@@ -46,7 +46,7 @@ redirect_from:
   * Smart Scheduling Algorithm for Electric Buses (Co-PI, Huawei Techonologies Co., Ltd., 2022.01-2023.03, ￥1,200,000)
   * Dynamic Macroscopic Modeling of Crowd Dynamics under Panic Conditions (GRA, General Research Fund, Research Grants Council, Hong Kong SAR Government, Project No. 17201318, 2019.01-2021.12, HK$1,220,000)
   * Risks to Pedestrians of Crossing in a Traffic System with Different Driving Rules (GRA, General Research Fund, Research Grants Council, Hong Kong SAR Government, Project No. 17203017, 2018.01-2020.12, HK$442,000)
-  * Multi-user voice-driven BIM-based navigation system for fire emergency response (GRA, U21 Graduate Collaborative Research Awards, Universitas 21, 2018.01-2019.01, $5,000)
+  * Multi-user voice-driven BIM-based navigation system for fire emergency response (GRA, U21 Graduate Collaborative Research Awards, Universitas 21, 2018.01-2018.12, $5,000)
   * Traffic Flow Modeling and Operational Strategies Optimization for Urban Transportation Corridor Simulations (GRA, National Natural Science Foundation of China, China, Project No. 51508505, 2016.01-2018.12, ￥200,000)
   * Traffic Simulation and Integrated Control Optimization Strategy for the Main Urban Road Network of Hangzhou (GRA, Zhejiang Intelligent Transportation Engineering Technology Research Center, 2015.07-2016.06, ￥50,000)
 
