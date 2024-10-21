@@ -38,17 +38,17 @@ redirect_from:
 
 📁 Research Projects
 ======
-  * Modeling the Mechanism of Pedestrian-Vehicle Interaction and Optimizing Decisions for Autonomous Vehicles in Ports under the Influence of external Human-Machine Interfaces (PI, Natural Science Foundation of Ningbo, Young Doctoral Innovation Research Project, Ningbo Government, 2024-2027)
-  * Virtual Reality-based Study of Pedestrian-Vehicle Interaction Behavior and Risk in Port Automated Driving Environment (PI, Ningbo Yongjiang Talent-Young Innovative Talent Project, Ningbo Government, Project No. ZX2024000003, 2024-2028)
-  * Human-Vehicle Interaction Safety in Port Road Areas under Autonomous Driving Conditions (PI, Talent Start-up Fund, Ningbo University, Project No. ZX2023000249, 2023-2026)
-  * Urban Intersection Holographic Perception Layout and Control Strategy (Co-PI, Huawei Techonologies Co., Ltd., 2022-2023)
-  * Key Technologies of Simulation Platform for Intelligent Highways (Co-I, Huawei Techonologies Co., Ltd., 2022-2023)
-  * Smart Scheduling Algorithm for Electric Buses (Co-PI, Huawei Techonologies Co., Ltd., 2021-2023)
-  * Dynamic Macroscopic Modeling of Crowd Dynamics under Panic Conditions (GRA, General Research Fund, Research Grants Council, Hong Kong SAR Government, Project No. 17201318, 2019-2021)
-  * Risks to Pedestrians of Crossing in a Traffic System with Different Driving Rules (GRA, General Research Fund, Research Grants Council, Hong Kong SAR Government, Project No. 17203017, 2018-2020)
-  * Multi-user voice-driven BIM-based navigation system for fire emergency response (GRA, U21 Graduate Collaborative Research Awards, Universitas 21, 2018-2019)
-  * Traffic Flow Modeling and Operational Strategies Optimization for Urban Transportation Corridor Simulations (GRA, National Natural Science Foundation of China, China, Project No. 51508505, 2016-2018)
-  * Traffic Simulation and Integrated Control Optimization Strategy for the Main Urban Road Network of Hangzhou (GRA, Zhejiang Intelligent Transportation Engineering Technology Research Center, 2015-2016)
+  * Modeling the Mechanism of Pedestrian-Vehicle Interaction and Optimizing Decisions for Autonomous Vehicles in Ports under the Influence of external Human-Machine Interfaces (PI, Natural Science Foundation of Ningbo, Young Doctoral Innovation Research Project, Ningbo Government, 2024.06-2027.05, ￥160,000)
+  * Virtual Reality-based Study of Pedestrian-Vehicle Interaction Behavior and Risk in Port Automated Driving Environment (PI, Ningbo Yongjiang Talent-Young Innovative Talent Project, Ningbo Government, Project No. ZX2024000003, 2024.01-2028.01, ￥1,000,000)
+  * Human-Vehicle Interaction Safety in Port Road Areas under Autonomous Driving Conditions (PI, Talent Start-up Fund, Ningbo University, Project No. ZX2023000249, 2023.03-2026.03, ￥250,000)
+  * Urban Intersection Holographic Perception Layout and Control Strategy (Co-PI, Huawei Techonologies Co., Ltd., 2022.08-2023.06, ￥1,191,338)
+  * Key Technologies of Simulation Platform for Intelligent Highways (Co-I, Huawei Techonologies Co., Ltd., 2022.06-2023.06, ￥1,300,000)
+  * Smart Scheduling Algorithm for Electric Buses (Co-PI, Huawei Techonologies Co., Ltd., 2022.01-2023.03, ￥1,200,000)
+  * Dynamic Macroscopic Modeling of Crowd Dynamics under Panic Conditions (GRA, General Research Fund, Research Grants Council, Hong Kong SAR Government, Project No. 17201318, 2019.01-2021.12, HK$1,220,000)
+  * Risks to Pedestrians of Crossing in a Traffic System with Different Driving Rules (GRA, General Research Fund, Research Grants Council, Hong Kong SAR Government, Project No. 17203017, 2018.01-2020.12, HK$442,000)
+  * Multi-user voice-driven BIM-based navigation system for fire emergency response (GRA, U21 Graduate Collaborative Research Awards, Universitas 21, 2018.01-2019.01, $5,000)
+  * Traffic Flow Modeling and Operational Strategies Optimization for Urban Transportation Corridor Simulations (GRA, National Natural Science Foundation of China, China, Project No. 51508505, 2016.01-2018.12, ￥200,000)
+  * Traffic Simulation and Integrated Control Optimization Strategy for the Main Urban Road Network of Hangzhou (GRA, Zhejiang Intelligent Transportation Engineering Technology Research Center, 2015.07-2016.06, ￥50,000)
 
 🎖 Honors and Awards
 ======
