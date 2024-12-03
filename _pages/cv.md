@@ -52,6 +52,8 @@ redirect_from:
 
 🎖 Honors and Awards
 ======
+* 2024
+  * Outstanding Public Course - Intelligent Marine Navigation and Information System, Ningbo University, 2024
 * 2023
   * Yongjiang Talent-Young Innovative, Ningbo, China, 2023
   * Top Talent, Ningbo, China, 2023
