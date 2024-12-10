@@ -44,13 +44,6 @@ For more details of our group, please visit: [Traffic Safety and Intelligence La
  * **Ye, Y.**\* (2019, December 14-16). Risks to pedestrians in traffic systems with unfamiliar driving rules [Oral Presentation]. *The 24th International Conference of Hong Kong Society for Transportation Studies (HKSTS 2019)*, Hong Kong, China.
  * **Ye, Y.**, & Chen, X.\* (2018, January 7-11). Simulation-based optimization for time-of-day coordinated ramp metering of a large-scale urban expressway network [Poster Presentation]. *The 97th Annual Meeting of Transportation Research Board (TRBAM 2018)*, Washington DC, United States.
 
-# Selected Projects
-  * Modeling the Mechanism of Pedestrian-Vehicle Interaction and Optimizing Decisions for Autonomous Vehicles in Ports under the Influence of external Human-Machine Interfaces (PI, Natural Science Foundation of Ningbo, Young Doctoral Innovation Research Project, Ningbo Government, 2024.06-2027.05, ￥160,000)
-  * Virtual Reality-based Study of Pedestrian-Vehicle Interaction Behavior and Risk in Port Automated Driving Environment (PI, Ningbo Yongjiang Talent-Young Innovative Talent Project, Ningbo Government, Project No. ZX2024000003, 2024.01-2028.12, ￥1,000,000)
-  * Human-Vehicle Interaction Safety in Port Road Areas under Autonomous Driving Conditions (PI, Talent Start-up Fund, Ningbo University, Project No. ZX2023000249, 2023.03-2026.03, ￥250,000)
-  * Urban Intersection Holographic Perception Layout and Control Strategy (Co-PI, Huawei Techonologies Co., Ltd., 2022.08-2023.06, ￥1,191,338)
-  * Smart Scheduling Algorithm for Electric Buses (Co-PI, Huawei Techonologies Co., Ltd., 2022.01-2023.03, ￥1,200,000)
-
 # Service
 * Journal Reviewer
   * IEEE Transactions on Intelligent Transportation Systems
