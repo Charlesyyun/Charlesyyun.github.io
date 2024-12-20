@@ -10,7 +10,7 @@ redirect_from:
 
 Dr. Yun (Charles) YE is an Associate Professor in the Faculty of Maritime and Transportation, [Ningbo University](https://www.nbu.edu.cn/) (NBU). Dr. YE received his B.E. and Ph. D. degree from [Zhejiang University](https://www.zju.edu.cn/) (ZJU) and [The University of Hong Kong](https://www.hku.hk/) (HKU), in 2017 and 2021, respectively. From 2021 to 2023, Dr. YE worked as a research engineer at the Central Research Institute and Central Media Technology Institute, 2012 Lab, [Huawei Technologies Co., Ltd.](https://www.huawei.com/cn/). He was an awardee of Yongjiang Talent-Young Innovative, Top Talent by Ningbo City, Yue-Kong Pao Young Top Scholar by Ningbo University, and Civil Centennial Future Scholars by the University of Hong Kong. Dr. YE has contribute to prestigious journals and conferences such as *Safety Science*, *Accident Analysis & Prevention*, *Travel Behaviour and Society*, *TRB Annual Meeting*, *IEEE ITSC*, etc. and serves as reviewers for *IEEE T-ITS*, *TR-Part F*, *Transport Policy*, *Transportmetrica A: Transport Science*, *Journal of Transportation Safety & Security*, *IEEE ITSC*, etc. He has also led or participated in over 10 research and practical projects.
 
-For more details of our group, please visit: [Traffic Safety and Intelligence Laboratory, TSI Lab](https://lab.rjmart.cn/10969/tsilab)
+For more details of our group, please visit: [Traffic Safety and Intelligence Laboratory, TSI Lab](https://charlesyyun.github.io/tsilab/)
 
 # Research Interests
  * Traffic safety
