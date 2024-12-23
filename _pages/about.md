@@ -37,7 +37,7 @@ For more details of our group, please visit: [Traffic Safety and Intelligence La
  * **Ye, Y.**, Wong, S.C.\*, Li, Y.C., & Lau, Y.K. (2020). [Risks to pedestrians in traffic systems with unfamiliar driving rules: A virtual reality approach](https://doi.org/10.1016/j.aap.2020.105565). *Accident Analysis & Prevention*, 142, 105565. (**SSCI, JCR Q1, Top, IF 5.7**)
 
 ## Keynote and Invited Talks
-* **Ye, Y.**\*, Che, Y., & Liang, H. (2024, September 24-27). Exploring the influence of pedestrian attitude, propensity, and risk perception on gap acceptance between platooning autonomous trucks. Invited presentation at the Workshop on *The 27th IEEE International Conference on Intelligent Transportation Systems (ITSC 2024)*, Edmonton, Canada.
+* **Ye, Y.**\*, Che, Y., & Liang, H. (2024, September 24-27). Exploring the influence of pedestrian attitude, propensity, and risk perception on gap acceptance between platooning autonomous trucks. Invited presentation at the Workshop on *The 27th IEEE International Conference on Intelligent Transportation Systems (ITSC 2024): Advanced Modeling, Evaluation, and Simulation of Interactions in Mixed Traffic Comprising Pedestrians, Automated Vehicles, and Human-driven Vehicles*, Edmonton, Canada.
 
 ## Conference Papers and Presentations
 * Zhou, Z., Liang, H., & **Ye, Y.**\* (2025, July 22-25). An improved social force model for pedestrian-vehicle interaction simulation [Poster Presentation]. *The 25th COTA International Conference of Transportation Professionals (CICTP2025)*, Guangzhou, China.
