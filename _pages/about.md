@@ -36,6 +36,9 @@ For more details of our group, please visit: [Traffic Safety and Intelligence La
  * **Ye, Y.**, Wong, S.C.\*, Meng, F., & Xu, P. (2021). [Right-looking habit and maladaptation of pedestrians in areas with unfamiliar driving rules](https://doi.org/10.1016/j.aap.2020.105921). *Accident Analysis & Prevention*, 150, 105921. (**SSCI, JCR Q1, Top, IF 5.7**)
  * **Ye, Y.**, Wong, S.C.\*, Li, Y.C., & Lau, Y.K. (2020). [Risks to pedestrians in traffic systems with unfamiliar driving rules: A virtual reality approach](https://doi.org/10.1016/j.aap.2020.105565). *Accident Analysis & Prevention*, 142, 105565. (**SSCI, JCR Q1, Top, IF 5.7**)
 
+## Keynote and Invited Talks
+* **Ye, Y.**\*, Che, Y., & Liang, H. (2024, September 24-27). Exploring the influence of pedestrian attitude, propensity, and risk perception on gap acceptance between platooning autonomous trucks. Invited presentation at the Workshop on *The 27th IEEE International Conference on Intelligent Transportation Systems (ITSC 2024)*, Edmonton, Canada.
+
 ## Conference Papers and Presentations
 * Zhou, Z., Liang, H., & **Ye, Y.**\* (2025, July 22-25). An improved social force model for pedestrian-vehicle interaction simulation [Poster Presentation]. *The 25th COTA International Conference of Transportation Professionals (CICTP2025)*, Guangzhou, China.
 * Li, Z., Che, Y., Zhou, Z., Liang, H., & **Ye, Y.**\* (2025, July 22-25). Is eHMI always helpful? Investigating interference of eHMI on pedestrians interacting with autonomous vehicles on multi-lane streets: A virtual reality-based experiment [Poster Presentation]. *The 25th COTA International Conference of Transportation Professionals (CICTP2025)*, Guangzhou, China.
