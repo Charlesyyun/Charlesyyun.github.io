@@ -40,9 +40,10 @@ redirect_from:
 ======
 * 2024
   * Outstanding Public Course - Intelligent Marine Navigation and Information System, Ningbo University, 2024
+  * Top Talent, Ningbo, China, 2024
 * 2023
   * Yongjiang Talent-Young Innovative, Ningbo, China, 2023
-  * Top Talent, Ningbo, China, 2023
+  * Senior Talent, Ningbo, China, 2023
   * Yue-Kong Pao Young Top Scholar, Ningbo University, 2023
   * Annual Company Awards 2022 - Innovation & Technological Breakthrough Award: Audio Vivid & HDR Vivid Standard and Key technical Competitiveness Team, Huawei Technology Ltd., 2023
   * Mate50 Flagship HDR Vivid Competitive Delivery Award, Huawei Technology Ltd., 2023
