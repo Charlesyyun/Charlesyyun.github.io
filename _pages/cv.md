@@ -39,28 +39,28 @@ redirect_from:
 🎖 Honors and Awards
 ======
 * 2024
-  * Outstanding Public Course - Intelligent Marine Navigation and Information System, Ningbo University, 2024
-  * Top Talent, Ningbo, China, 2024
+  * Outstanding Public Course - Intelligent Marine Navigation and Information System, Ningbo University
+  * Top Talent, Ningbo, China
 * 2023
-  * Yongjiang Talent-Young Innovative, Ningbo, China, 2023
-  * Senior Talent, Ningbo, China, 2023
-  * Yue-Kong Pao Young Top Scholar, Ningbo University, 2023
-  * Annual Company Awards 2022 - Innovation & Technological Breakthrough Award: Audio Vivid & HDR Vivid Standard and Key technical Competitiveness Team, Huawei Technology Ltd., 2023
-  * Mate50 Flagship HDR Vivid Competitive Delivery Award, Huawei Technology Ltd., 2023
-  * Central Media Technology Institute President’s Team Award - Technology Breakthrough Contribution Award, Huawei Technology Ltd., 2023
-  * 2012 Lab President’s Team Award, Huawei Technology Ltd., 2023
+  * Yongjiang Talent-Young Innovative, Ningbo, China
+  * Senior Talent, Ningbo, China
+  * Yue-Kong Pao Young Top Scholar, Ningbo University
+  * Annual Company Awards 2022 - Innovation & Technological Breakthrough Award: Audio Vivid & HDR Vivid Standard and Key technical Competitiveness Team, Huawei Technology Ltd.
+  * Mate50 Flagship HDR Vivid Competitive Delivery Award, Huawei Technology Ltd.
+  * Central Media Technology Institute President’s Team Award - Technology Breakthrough Contribution Award, Huawei Technology Ltd.
+  * 2012 Lab President’s Team Award, Huawei Technology Ltd.
 * 2017-2021
-  * Lee Shau Kee Postgraduate Fellowship, The University of Hong Kong, 2017-2021
-  * Postgraduate Scholarship, The University of Hong Kong, 2017-2021
+  * Lee Shau Kee Postgraduate Fellowship, The University of Hong Kong
+  * Postgraduate Scholarship, The University of Hong Kong
 * 2013-2017
-  * Civil Centennial Future Scholars, The University of Hong Kong, 2016
-  * Best Paper Award, The 11th Annual Conference of ITS China, 2016
-  * Outstanding Students, Zhejiang University, 2013-2017
-  * Outstanding Merits, Zhejiang University, 2013-2017
-  * Excellent Student Award, Zhejiang University, 2013-2017
-  * Zhongtian Scholarship, Zhejiang University, 2013-2017
-  * China Harbor Scholarship, Zhejiang University, 2013-2017
-  * Hangzhou Commercial Bank Scholarship, Zhejiang University, 2013-2017
+  * Civil Centennial Future Scholars, The University of Hong Kong
+  * Best Paper Award, The 11th Annual Conference of ITS China
+  * Outstanding Students, Zhejiang University
+  * Outstanding Merits, Zhejiang University
+  * Excellent Student Award, Zhejiang University
+  * Zhongtian Scholarship, Zhejiang University
+  * China Harbor Scholarship, Zhejiang University
+  * Hangzhou Commercial Bank Scholarship, Zhejiang University
   
 📄 Publications
 ======
