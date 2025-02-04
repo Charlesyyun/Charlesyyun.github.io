@@ -28,7 +28,7 @@ For more details of our group, please visit: [Traffic Safety and Intelligence La
  * Mar 2023 - Present: Associate Professor, Faculty of Maritime and Transportation, Ningbo University (NBU), Ningbo, China
  * Sep 2022 - Feb 2023: Research Engineer, Central Media Technology Institute, 2012 Lab, Huawei Technologies, Shenzhen, China
  * Nov 2021 - Sep 2022: Research Engineer, Central Research Institute, 2012 Lab, Huawei Technologies, Shenzhen, China
- * July 2016: Research Assistant, The University of Hong Kong, Hong Kong, China
+ * July 2016 - Aug 2016: Research Assistant, The University of Hong Kong (HKU), Hong Kong, China
 
 # Selected Publications 
 ## Journal Papers
