@@ -16,7 +16,7 @@ For more details of our group, please visit: [Traffic Safety and Intelligence La
  * Traffic safety
  * Virtual reality
  * Human factors
- * Traffic simulation and optimization
+ * Data-driven and physics-informed modeling
  * Intelligent transportation systems
 
 # Education
