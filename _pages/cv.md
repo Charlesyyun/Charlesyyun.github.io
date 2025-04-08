@@ -99,6 +99,7 @@ redirect_from:
   * Transportation Research Part F: Traffic Psychology and Behaviour
   * Journal of Transportation Safety & Security
   * Transportmetrica A: Transport Science
+  * Journal of King Saud University Computer and Information Sciences
 * Conference Reviewer
   * IEEE International Conference on Intelligent Transportation Systems
   * IEEE International Conference on Vehicular Electronics and Safety
