@@ -32,6 +32,7 @@ For more details of our group, please visit: [Traffic Safety and Intelligence La
 
 # Selected Publications 
 ## Journal Papers
+ * **Ye, Y.**, Zheng, P., Wang, Q., Wong, S.C., & Xu, P.\* (2025). Modeling economic loss associated with fishing vessel accidents: A Bayesian random-parameter generalized beta of the second kind model with heterogeneity in means. *Analytic Methods in Accident Research*, in press. (**SSCI, JCR Q1, IF 12.5**)
  * **Ye, Y.**, Liang, H., Sun, J., & Chen, X.\* (2025). [Distance-informed Neural Eikonal Solver for reactive dynamic user-equilibrium of macroscopic continuum traffic flow model](https://doi.org/10.1109/TITS.2025.3543972). *IEEE Transactions on Intelligent Transportation Systems*, Early Access. (**SCI, JCR Q1, IF 7.9**)
  * **Ye, Y.**, Zheng, P., Liang, H., Chen, X., Wong, S.C., & Xu, P.\* (2024). [Safety or efficiency? Estimating crossing motivations of intoxicated pedestrians by leveraging the inverse reinforcement learning](https://doi.org/10.1016/j.tbs.2024.100760). *Travel Behaviour and Society*, 35, 100760. (**SSCI, JCR Q1, IF 5.1**)
  * **Ye, Y.**, Wong, S.C.\*, Li, Y.C., & Choi, K.M. (2023). [Crossing behaviors of drunk pedestrians unfamiliar with local traffic rules](https://doi.org/10.1016/j.ssci.2022.105924). *Safety Science*, 157, 105924. (**SCI, JCR Q1, IF 4.7**)
