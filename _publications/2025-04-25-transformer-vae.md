@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025-04-25-transformer-vae
 date: 2025-04-25
 venue: 'Journal of Marine Science and Engineering'
-excerpt: "SCI Q1, IF 2.7"
+excerpt: "SCI Q1, IF 2.8"
 paperurl: 'https://doi.org/10.3390/jmse13050849'
 citation: 'Hou, J., Zhou, H., Grifoll, M., Zhou, Y., Liu, J., Ye, Y.*, & Zheng, P.* (2025). &quot;A Transformer–VAE Approach for Detecting Ship Trajectory Anomalies in Cross-Sea Bridge Areas.&quot; <i>Journal of Marine Science and Engineering</i>, 13(5), 849.'
 ---
