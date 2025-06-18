@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025-06-12-lubricant
 date: 2025-06-12
 venue: 'Alexandria Engineering Journal'
-excerpt: "SCI Q1, IF 6.2"
+excerpt: "SCI Q1, IF 6.8"
 paperurl: 'https://doi.org/10.1016/j.aej.2025.06.020'
 citation: 'Zhou, Q., Chai, B., Guo, Y., Wu, H., Wang, K., & Ye, Y.* (2025). &quot;Feature Enhancement based Aero-Engine Lubricant Consumption Prediction: A BiTCN-BiGRU-Attention Approach.&quot; <i>Alexandria Engineering Journal</i>, 129, 137-167.'
 ---
