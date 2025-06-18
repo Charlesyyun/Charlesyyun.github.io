@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-01-01-drunk-pedestrian
 date: 2023-01-01
 venue: 'Safety Science'
-excerpt: "SCI Q1, IF 4.7"
+excerpt: "SCI Q1, IF 5.4"
 paperurl: 'https://doi.org/10.1016/j.ssci.2022.105924'
 citation: 'Ye, Y., Wong, S.C., Li, Y.C.*, & Choi, K.M. (2023). &quot;Crossing behaviors of drunk pedestrians unfamiliar with local traffic rules.&quot; <i>Safety Science</i>, 157, 105924.'
 ---
