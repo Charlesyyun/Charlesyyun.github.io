@@ -40,10 +40,14 @@ For more details of our group, please visit: [Traffic Safety and Intelligence La
  * **Ye, Y.**, Wong, S.C.\*, Li, Y.C., & Lau, Y.K. (2020). [Risks to pedestrians in traffic systems with unfamiliar driving rules: A virtual reality approach](https://doi.org/10.1016/j.aap.2020.105565). *Accident Analysis & Prevention*, 142, 105565. (**SSCI, JCR Q1, IF 6.2**)
  * Zhou, Q., Chai, B., Guo, Y., Wu, H., Wang, K., & **Ye, Y.**\* (2025). [Feature enhancement based aero-engine lubricant consumption prediction: A BiTCN-BiGRU-Attention approach](https://doi.org/10.1016/j.aej.2025.06.020). *Alexandria Engineering Journal*, 129, 137-167. (**SCI, JCR Q1, IF 6.8**)
 
+## Conference Papers
+* Li, H., You, L.\*, Xie, J., **Ye, Y.**, & Tan, X. (2025). [SmartPL: An Integrated Approach for Platoons Driving on Mixed-Traffic Freeways](https://doi.org/10.1007/978-981-96-7030-7_25). In *International Conference on Neural Information Processing* (pp. 357-372). Springer, Singapore.
+* **Ye, Y.**\*, Che, Y., & Liang, H. (2024). [Exploring the Influence of Pedestrian Attitude, Propensity, and Risk Perception on Gap Acceptance Between Platooning Autonomous Trucks](https://doi.org/10.1109/ITSC58415.2024.10920076). In *2024 IEEE 27th International Conference on Intelligent Transportation Systems (ITSC)* (pp. 3645-3650). IEEE.
+
 ## Keynote and Invited Talks
 * **Ye, Y.**\*, Che, Y., & Liang, H. (2024, September 24-27). Exploring the influence of pedestrian attitude, propensity, and risk perception on gap acceptance between platooning autonomous trucks. Invited presentation at the Workshop on *The 27th IEEE International Conference on Intelligent Transportation Systems (ITSC 2024): Advanced Modeling, Evaluation, and Simulation of Interactions in Mixed Traffic Comprising Pedestrians, Automated Vehicles, and Human-driven Vehicles*, Edmonton, Canada.
 
-## Conference Papers and Presentations
+## Conference Presentations
 * Zhou, Z., Liang, H., & **Ye, Y.**\* (2025, July 22-25). An improved social force model for pedestrian-vehicle interaction simulation [Poster Presentation]. *The 25th COTA International Conference of Transportation Professionals (CICTP2025)*, Guangzhou, China.
 * Li, Z., Che, Y., Zhou, Z., Liang, H., & **Ye, Y.**\* (2025, July 22-25). Is eHMI always helpful? Investigating interference of eHMI on pedestrians interacting with autonomous vehicles on multi-lane streets: A virtual reality-based experiment [Poster Presentation]. *The 25th COTA International Conference of Transportation Professionals (CICTP2025)*, Guangzhou, China.
  * **Ye, Y.**\*, Liang, H., Sun, J., & Chen, X. (2024, December 9-10). Distance-informed Neural Eikonal Solver for reactive dynamic user-equilibrium of macroscopic continuum traffic flow model [Poster Presentation]. *The 28th International Conference of Hong Kong Society for Transportation Studies (HKSTS 2024)*, Hong Kong, China.
