@@ -97,6 +97,7 @@ redirect_from:
   * Accident Analysis & Prevention
   * Transport Policy
   * Transportation Research Part F: Traffic Psychology and Behaviour
+  * Reliability Engineering & System Safety
   * Journal of Transportation Safety & Security
   * Transportmetrica A: Transport Science
   * Journal of King Saud University Computer and Information Sciences
