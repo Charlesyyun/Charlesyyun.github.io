@@ -60,6 +60,7 @@ For more details of our group, please visit: [Traffic Safety and Intelligence La
   * IEEE Transactions on Intelligent Transportation Systems
   * Accident Analysis & Prevention
   * Transportation Research Part F: Traffic Psychology and Behaviour
+  * Reliability Engineering & System Safety
   * Transport Policy
   * Journal of Transportation Safety & Security
   * Transportmetrica A: Transport Science
