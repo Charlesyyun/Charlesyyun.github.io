@@ -39,7 +39,7 @@ For more details of our group, please visit: [Traffic Safety and Intelligence La
  * **Ye, Y.**, Wong, S.C.\*, Meng, F., & Xu, P. (2021). [Right-looking habit and maladaptation of pedestrians in areas with unfamiliar driving rules](https://doi.org/10.1016/j.aap.2020.105921). *Accident Analysis & Prevention*, 150, 105921. (**SSCI, JCR Q1, IF 6.2**)
  * **Ye, Y.**, Wong, S.C.\*, Li, Y.C., & Lau, Y.K. (2020). [Risks to pedestrians in traffic systems with unfamiliar driving rules: A virtual reality approach](https://doi.org/10.1016/j.aap.2020.105565). *Accident Analysis & Prevention*, 142, 105565. (**SSCI, JCR Q1, IF 6.2**)
  * Zhou, Q., Chai, B., Guo, Y., Wu, H., Wang, K., & **Ye, Y.**\* (2025). [Feature enhancement based aero-engine lubricant consumption prediction: A BiTCN-BiGRU-Attention approach](https://doi.org/10.1016/j.aej.2025.06.020). *Alexandria Engineering Journal*, 129, 137-167. (**SCI, JCR Q1, IF 6.8**)
- * Zhou, Q., Chai, B., Tang, C., Guo, Y., Wang, K., Wu, W., Cao, B., & **Ye, Y.**\* (2025). Enhancing multimodal fault diagnosis in mechanical systems via mixture of experts. *Complex & Intelligent Systems*, in press. (**SCI, JCR Q2, IF 4.6**)
+ * Zhou, Q., Chai, B., Tang, C., Guo, Y., Wang, K., Wu, W., Cao, B., & **Ye, Y.**\* (2025). [Enhancing multimodal fault diagnosis in mechanical systems via mixture of experts](https://doi.org/10.1007/s40747-025-02061-x). *Complex & Intelligent Systems*, 11, 425. (**SCI, JCR Q2, IF 4.6**)
 
 ## Conference Papers
 * Li, H., You, L.\*, Xie, J., **Ye, Y.**, & Tan, X. (2025). [SmartPL: An Integrated Approach for Platoons Driving on Mixed-Traffic Freeways](https://doi.org/10.1007/978-981-96-7030-7_25). In *International Conference on Neural Information Processing* (pp. 357-372). Springer, Singapore.
