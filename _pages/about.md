@@ -62,6 +62,7 @@ For more details of our group, please visit: [Traffic Safety and Intelligence La
   * Accident Analysis & Prevention
   * Transportation Research Part F: Traffic Psychology and Behaviour
   * Reliability Engineering & System Safety
+  * Travel Behaviour and Society
   * Transport Policy
   * Journal of Transportation Safety & Security
   * Transportmetrica A: Transport Science
