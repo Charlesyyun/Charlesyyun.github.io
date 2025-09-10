@@ -69,6 +69,7 @@ For more details of our group, please visit: [Traffic Safety and Intelligence La
   * Transportmetrica A: Transport Science
   * Journal of King Saud University Computer and Information Sciences
   * Measurement
+  * Applied Soft Computing
 * Conference Reviewer
   * IEEE International Conference on Intelligent Transportation Systems
   * IEEE International Conference on Vehicular Electronics and Safety
