@@ -103,6 +103,7 @@ redirect_from:
   * Transportmetrica A: Transport Science
   * Journal of King Saud University Computer and Information Sciences
   * Measurement
+  * Applied Soft Computing
 * Conference Reviewer
   * IEEE International Conference on Intelligent Transportation Systems
   * IEEE International Conference on Vehicular Electronics and Safety
