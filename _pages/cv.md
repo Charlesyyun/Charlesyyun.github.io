@@ -104,6 +104,7 @@ redirect_from:
   * Journal of King Saud University Computer and Information Sciences
   * Measurement
   * Applied Soft Computing
+  * Transportation Research Interdisciplinary Perspectives
   * JMIR Public Health and Surveillance
   * Journal of South China University of Technology (Natural Science Edition)
 * Conference Reviewer
