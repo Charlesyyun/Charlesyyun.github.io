@@ -71,6 +71,7 @@ For more details of our group, please visit: [Traffic Safety and Intelligence La
   * Journal of King Saud University Computer and Information Sciences
   * Measurement
   * Applied Soft Computing
+  * ACM Transactions on Knowledge Discovery from Data
   * Transportation Research Interdisciplinary Perspectives
   * JMIR Public Health and Surveillance
   * Journal of South China University of Technology (Natural Science Edition)
