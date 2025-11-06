@@ -74,6 +74,7 @@ For more details of our group, please visit: [Traffic Safety and Intelligence La
   * ACM Transactions on Knowledge Discovery from Data
   * Transportation Research Interdisciplinary Perspectives
   * JMIR Public Health and Surveillance
+  * Nondestructive Testing and Evaluation
   * Journal of South China University of Technology (Natural Science Edition)
 * Conference Reviewer
   * IEEE International Conference on Intelligent Transportation Systems
