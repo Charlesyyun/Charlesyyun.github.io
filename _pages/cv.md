@@ -104,6 +104,7 @@ redirect_from:
   * Measurement
   * Neurocomputing
   * Nondestructive Testing and Evaluation
+  * Processes
   * Reliability Engineering & System Safety
   * Transport Policy
   * Transportmetrica A: Transport Science
