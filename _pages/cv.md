@@ -114,6 +114,7 @@ redirect_from:
 * Conference Reviewer
   * IEEE International Conference on Intelligent Transportation Systems
   * IEEE International Conference on Vehicular Electronics and Safety
+  * IEEE Intelligent Vehicles Symposium
 * Organizer
   * The 27th IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC 2024) Workshop: [*Advanced Modeling, Evaluation, and Simulation of Interactions in Mixed Traffic Comprising Pedestrians, Automated Vehicles, and Human-driven Vehicles*](https://sites.google.com/view/workshop-itsc-2024/)
 * Membership
