@@ -77,6 +77,7 @@ For more details of our group, please visit: [Traffic Safety and Intelligence La
   * Transportmetrica A: Transport Science
   * Travel Behaviour and Society
   * Transportation Research Interdisciplinary Perspectives
+  * Transportation Research Part E: Logistics and Transportation Review
   * Transportation Research Part F: Traffic Psychology and Behaviour
 * Conference Reviewer
   * IEEE International Conference on Intelligent Transportation Systems
