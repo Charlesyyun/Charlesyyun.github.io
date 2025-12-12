@@ -21,7 +21,7 @@ redirect_from:
 ======
 * Apr 2025 - Present: Academic Visitor, Transport Section, Department of Civil and Environmental Engineering, Imperial College London (IC), London, United Kingdom
   * Focusing on pedestrian-autonomous vehicle interaction, data- and mechanism-driven traffic modeling and optimization.
-  * Collaborator: [Prof. Panagiotis Angeloudis](https://profiles.imperial.ac.uk/p.angeloudis).
+  * Personal webpage at IC: [Dr. Yun Ye](https://profiles.imperial.ac.uk/yun.ye25).
     
 * Mar 2023 - Present: Associate Professor, Faculty of Maritime and Transportation, Ningbo University (NBU), Ningbo, China
   * Focusing on research areas such as virtual reality, human factors, traffic safety, and pedestrian-autonomous vehicle interaction.
