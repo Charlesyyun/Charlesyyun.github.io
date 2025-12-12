@@ -63,6 +63,7 @@ For more details of our group, please visit: [Traffic Safety and Intelligence La
   * ACM Transactions on Knowledge Discovery from Data
   * Accident Analysis & Prevention
   * Applied Soft Computing
+  * Future Transportation
   * IEEE Transactions on Intelligent Transportation Systems
   * JMIR Public Health and Surveillance
   * Journal of King Saud University Computer and Information Sciences
