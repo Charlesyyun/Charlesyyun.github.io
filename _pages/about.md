@@ -20,16 +20,16 @@ For more details of our group, please visit: [Traffic Safety and Intelligence La
  * Intelligent transportation systems
 
 # Education
- * 2017-2021: Ph.D in Traffic and Transportation Engineering, The University of Hong Kong (HKU)
- * 2013-2017: B.Eng. in Civil Engineering, Zhejiang University (ZJU)
+ * 2017-2021: Ph.D in Traffic and Transportation Engineering, The University of Hong Kong
+ * 2013-2017: B.Eng. in Civil Engineering, Zhejiang University
 
 # Professional Experience
- * Dec 2025 - Present: Visiting Lecturer/Researcher, SpaceTimeLab, Department of Civil, Environmental and Geomatic Engineering, University College London (UCL), London, United Kingdom
- * Apr 2025 - Present: Academic Visitor, Transport Section, Department of Civil and Environmental Engineering, Imperial College London (IC), London, United Kingdom
- * Mar 2023 - Present: Associate Professor, Faculty of Maritime and Transportation, Ningbo University (NBU), Ningbo, China
+ * Dec 2025 - Present: Visiting Lecturer/Researcher, SpaceTimeLab, Department of Civil, Environmental and Geomatic Engineering, University College London, London, United Kingdom
+ * Apr 2025 - Present: Academic Visitor, Transport Section, Department of Civil and Environmental Engineering, Imperial College London, London, United Kingdom
+ * Mar 2023 - Present: Associate Professor, Faculty of Maritime and Transportation, Ningbo University, Ningbo, China
  * Sep 2022 - Feb 2023: Senior Research Engineer, Central Media Technology Institute, 2012 Lab, Huawei Technologies, Shenzhen, China
  * Nov 2021 - Sep 2022: Senior Research Engineer, Central Research Institute, 2012 Lab, Huawei Technologies, Shenzhen, China
- * July 2016 - Aug 2016: Research Assistant, The University of Hong Kong (HKU), Hong Kong, China
+ * July 2016 - Aug 2016: Research Assistant, The University of Hong Kong, Hong Kong, China
 
 # Selected Publications 
 ## Journal Papers
