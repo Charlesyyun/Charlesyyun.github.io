@@ -25,7 +25,7 @@ For more details of our group, please visit: [Traffic Safety and Intelligence La
 
 # Professional Experience
  * Dec 2025 - Present: Visiting Lecturer/Researcher, SpaceTimeLab, Department of Civil, Environmental and Geomatic Engineering, University College London, London, United Kingdom
- * Apr 2025 - Present: Academic Visitor, Transport Section, Department of Civil and Environmental Engineering, Imperial College London, London, United Kingdom
+ * Apr 2025 - April 2026: Academic Visitor, Transport Section, Department of Civil and Environmental Engineering, Imperial College London, London, United Kingdom
  * Mar 2023 - Present: Associate Professor, Faculty of Maritime and Transportation, Ningbo University, Ningbo, China
  * Sep 2022 - Feb 2023: Senior Research Engineer, Central Media Technology Institute, 2012 Lab, Huawei Technologies, Shenzhen, China
  * Nov 2021 - Sep 2022: Senior Research Engineer, Central Research Institute, 2012 Lab, Huawei Technologies, Shenzhen, China
