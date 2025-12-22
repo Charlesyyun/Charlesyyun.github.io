@@ -98,6 +98,7 @@ redirect_from:
   * ACM Transactions on Knowledge Discovery from Data
   * Accident Analysis & Prevention
   * Applied Soft Computing
+  * Electronics
   * Future Transportation
   * IEEE Transactions on Intelligent Transportation Systems
   * JMIR Public Health and Surveillance
