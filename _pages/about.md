@@ -33,7 +33,7 @@ For more details of our group, please visit: [Traffic Safety and Intelligence La
 
 # Selected Publications 
 ## Journal Papers
- * Zhou, Q., Chai, B., Li, Y., Tang, C., Guo, Y., & **Ye, Y.**\* (2026). A mixture-of-experts prior–posterior fusion framework for predicting the remaining useful life of aerospace high-speed bearings. *Neurocomputing*, in press. (**SCI, JCR Q1, IF 6.5**)
+ * Zhou, Q., Chai, B., Li, Y., Tang, C., Guo, Y., & **Ye, Y.**\* (2026). [A mixture-of-experts prior–posterior fusion framework for predicting the remaining useful life of aerospace high-speed bearings](https://doi.org/10.1016/j.neucom.2025.132601). *Neurocomputing*, 132601. (**SCI, JCR Q1, IF 6.5**)
  * **Ye, Y.**, Zheng, P., Xu, P., Ren, Q., Yan, R., & Gao, X.* (2026). [Varying effects of risk factors on economic losses from fishing vessel accidents: A Bayesian random-parameter quantile regression with heterogeneity in means](https://doi.org/10.1016/j.ress.2025.111690). *Reliability Engineering & System Safety*, 266, 111690. (**SCI, JCR Q1, IF 11.0**)
  * **Ye, Y.**, Zheng, P., Wang, Q., Wong, S.C., & Xu, P.\* (2025). [Modeling economic loss associated with fishing vessel accidents: A Bayesian random-parameter generalized beta of the second kind model with heterogeneity in means](https://doi.org/10.1016/j.amar.2025.100384). *Analytic Methods in Accident Research*, 46, 100384. (**SSCI, JCR Q1, IF 12.6**)
  * **Ye, Y.**, Liang, H., Sun, J., & Chen, X.\* (2025). [Distance-informed Neural Eikonal Solver for reactive dynamic user-equilibrium of macroscopic continuum traffic flow model](https://doi.org/10.1109/TITS.2025.3543972). *IEEE Transactions on Intelligent Transportation Systems*, 26(6), 8162-8177. (**SCI, JCR Q1, IF 8.4**)
