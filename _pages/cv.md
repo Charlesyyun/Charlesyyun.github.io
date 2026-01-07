@@ -114,6 +114,7 @@ redirect_from:
   * Transportmetrica A: Transport Science
   * Travel Behaviour and Society
   * Transportation Research Interdisciplinary Perspectives
+  * Transportation Research Part A: Policy and Practice
   * Transportation Research Part E: Logistics and Transportation Review
   * Transportation Research Part F: Traffic Psychology and Behaviour
 * Conference Reviewer
