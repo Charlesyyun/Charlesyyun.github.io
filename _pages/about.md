@@ -77,6 +77,7 @@ For more details of our group, please visit: [Traffic Safety and Intelligence La
   * Nondestructive Testing and Evaluation
   * Processes
   * Reliability Engineering & System Safety
+  * Traffic Injury Prevention
   * Transport Policy
   * Transportmetrica A: Transport Science
   * Travel Behaviour and Society
