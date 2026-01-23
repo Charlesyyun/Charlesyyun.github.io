@@ -22,7 +22,7 @@ redirect_from:
 * Dec 2025 - Present: Visiting Lecturer/Researcher, SpaceTimeLab, Department of Civil, Environmental and Geomatic Engineering, University College London, London, United Kingdom
   * Focusing on agent-based human mobility modeling, spatio-temporal data mining, and artificial intelligence.
 
-* Apr 2025 - Dec 2025: Academic Visitor, Transport Section, Department of Civil and Environmental Engineering, Imperial College London, London, United Kingdom
+* Apr 2025 - Apr 2026: Academic Visitor, Transport Section, Department of Civil and Environmental Engineering, Imperial College London, London, United Kingdom
   * Focusing on pedestrian-autonomous vehicle interaction, data- and mechanism-driven traffic modeling and optimization.
     
 * Mar 2023 - Present: Associate Professor, Faculty of Maritime and Transportation, Ningbo University, Ningbo, China
@@ -110,6 +110,7 @@ redirect_from:
   * Nondestructive Testing and Evaluation
   * Processes
   * Reliability Engineering & System Safety
+  * Traffic Injury Prevention
   * Transport Policy
   * Transportmetrica A: Transport Science
   * Travel Behaviour and Society
