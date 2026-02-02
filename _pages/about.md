@@ -33,6 +33,7 @@ For more details of our group, please visit: [Traffic Safety and Intelligence La
 
 # Selected Publications 
 ## Journal Papers
+ * **Ye, Y.**, Zhou, Z., Ying, C., Xie, J., Chen, X., & Gao, Z.\* (2026). Risk-aware pedestrian-vehicle interaction: A multi-objective Bayesian optimized social force model. *Transportmetrica A: Transport Science*, in press. (**SCI/SSCI, JCR Q2, IF 3.1**)
  * Zhou, Q., Chai, B., Li, Y., Tang, C., Guo, Y., & **Ye, Y.**\* (2026). [A mixture-of-experts prior–posterior fusion framework for predicting the remaining useful life of aerospace high-speed bearings](https://doi.org/10.1016/j.neucom.2025.132601). *Neurocomputing*, 670, 132601. (**SCI, JCR Q1, IF 6.5**)
  * **Ye, Y.**, Zheng, P., Xu, P., Ren, Q., Yan, R., & Gao, X.* (2026). [Varying effects of risk factors on economic losses from fishing vessel accidents: A Bayesian random-parameter quantile regression with heterogeneity in means](https://doi.org/10.1016/j.ress.2025.111690). *Reliability Engineering & System Safety*, 266, 111690. (**SCI, JCR Q1, IF 11.0**)
  * **Ye, Y.**, Zheng, P., Wang, Q., Wong, S.C., & Xu, P.\* (2025). [Modeling economic loss associated with fishing vessel accidents: A Bayesian random-parameter generalized beta of the second kind model with heterogeneity in means](https://doi.org/10.1016/j.amar.2025.100384). *Analytic Methods in Accident Research*, 46, 100384. (**SSCI, JCR Q1, IF 12.6**)
