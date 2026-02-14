@@ -110,6 +110,7 @@ redirect_from:
   * Nondestructive Testing and Evaluation
   * Processes
   * Reliability Engineering & System Safety
+  * Ships and Offshore Structures
   * Traffic Injury Prevention
   * Transport Policy
   * Transportmetrica A: Transport Science
