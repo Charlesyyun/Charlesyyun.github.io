@@ -44,6 +44,10 @@ redirect_from:
 
 🎖 Honors and Awards
 ======
+* 2026
+  * Marie Skłodowska-Curie Actions - Seal of Excellence, European Commission Horizon Europe
+* 2025
+  * Zhejiang Province Young Talent Support Program, Zhejiang, China
 * 2024
   * Outstanding Public Course - Intelligent Marine Navigation and Information System, Ningbo University
   * Top Talent, Ningbo, China
