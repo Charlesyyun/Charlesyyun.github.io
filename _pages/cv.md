@@ -98,6 +98,8 @@ redirect_from:
   
 🤝 Service
 ======
+* Guest Editor
+  * [Special Issue: Next-Generation AI and Foundation Models for Transportation Systems](https://www.mdpi.com/journal/futuretransp/special_issues/75RN94DDCM), Future Transportation
 * Journal Reviewer
   * ACM Transactions on Knowledge Discovery from Data
   * Accident Analysis & Prevention
