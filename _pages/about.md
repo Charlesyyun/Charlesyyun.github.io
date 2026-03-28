@@ -65,6 +65,7 @@ For more details of our group, please visit: [Traffic Safety and Intelligence La
 * Journal Reviewer
   * ACM Transactions on Knowledge Discovery from Data
   * Accident Analysis & Prevention
+  * Aerospace
   * Applied Soft Computing
   * Electronics
   * Future Transportation
