@@ -33,6 +33,7 @@ For more details of our group, please visit: [Traffic Safety and Intelligence La
 
 # Selected Publications 
 ## Journal Papers
+ * Che, Y., Wong, M.O., Gao, X., Liang, H., \& **Ye, Y.**\* (2026). Enhancing safety in automated ports: A virtual reality study of pedestrian–autonomous vehicle interactions under time pressure, visual constraints, and varying vehicle size. *Transportation Research Interdisciplinary Perspectives*, in press. (**EI, ESCI, JCR Q2, IF 3.8**)
  * **Ye, Y.**, Liu, M., Meng, F., Wong, S.C., Gao, X.\*, & Yang, Z. (2026). [Temporal instability analysis of fatal commercial fishing vessel incidents: A correlated random-parameter model with heterogeneity in means](https://doi.org/10.1016/j.ress.2026.112423). *Reliability Engineering & System Safety*, 274, 112423. (**SCI, JCR Q1, IF 11.0**)
  * **Ye, Y.**, Zhou, Z., Ying, C., Xie, J., Chen, X., & Gao, Z.\* (2026). [Risk-aware pedestrian-vehicle interaction: A multi-objective Bayesian optimized social force model](https://doi.org/10.1080/23249935.2026.2627403). *Transportmetrica A: Transport Science*, 1-49. (**SCI/SSCI, JCR Q2, IF 3.1**)
  * **Ye, Y.**, Zheng, P., Xu, P., Ren, Q., Yan, R., & Gao, X.* (2026). [Varying effects of risk factors on economic losses from fishing vessel accidents: A Bayesian random-parameter quantile regression with heterogeneity in means](https://doi.org/10.1016/j.ress.2025.111690). *Reliability Engineering & System Safety*, 266, 111690. (**SCI, JCR Q1, IF 11.0**)
