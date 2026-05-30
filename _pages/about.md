@@ -78,11 +78,10 @@ Laplace approximation](https://doi.org/10.1016/j.ress.2026.112864). *Reliability
 * Journal Reviewer
   * ACM Transactions on Knowledge Discovery from Data
   * Accident Analysis & Prevention
-  * Aerospace
   * Applied Soft Computing
-  * Electronics
-  * Future Transportation
+  * Cybernetics & Systems
   * IEEE Transactions on Intelligent Transportation Systems
+  * International Journal of Human-Computer Interaction
   * JMIR Public Health and Surveillance
   * Journal of King Saud University Computer and Information Sciences
   * Journal of South China University of Technology (Natural Science Edition)
@@ -90,7 +89,6 @@ Laplace approximation](https://doi.org/10.1016/j.ress.2026.112864). *Reliability
   * Measurement
   * Neurocomputing
   * Nondestructive Testing and Evaluation
-  * Processes
   * Reliability Engineering & System Safety
   * Ships and Offshore Structures
   * Traffic Injury Prevention
