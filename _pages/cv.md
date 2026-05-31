@@ -106,6 +106,7 @@ redirect_from:
   * Applied Soft Computing
   * Cybernetics & Systems
   * IEEE Transactions on Intelligent Transportation Systems
+  * IET Intelligent Transportation Systems
   * International Journal of Human-Computer Interaction
   * JMIR Public Health and Surveillance
   * Journal of King Saud University Computer and Information Sciences
