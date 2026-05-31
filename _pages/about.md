@@ -83,6 +83,7 @@ Laplace approximation](https://doi.org/10.1016/j.ress.2026.112864). *Reliability
   * Applied Soft Computing
   * Cybernetics & Systems
   * IEEE Transactions on Intelligent Transportation Systems
+  * IET Intelligent Transportation Systems
   * International Journal of Human-Computer Interaction
   * JMIR Public Health and Surveillance
   * Journal of King Saud University Computer and Information Sciences
