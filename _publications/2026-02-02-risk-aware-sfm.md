@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2026-02-02-risk-aware-sfm
 date: 2026-02-02
 venue: 'Transportmetrica A: Transport Science'
-excerpt: "SCI/SSCI Q2, IF 3.1"
+excerpt: "SCI/SSCI Q2, IF 3.9"
 paperurl: 'https://doi.org/10.1080/23249935.2026.2627403'
 citation: 'Ye, Y., Zhou, Z., Ying, C., Xie, J., Chen, X., & Gao, Z.* (2026). &quot;Risk-aware pedestrian-vehicle interaction: A multi-objective Bayesian-optimized social force model.&quot; <i>Transportmetrica A: Transport Science</i>, 1-49.'
 ---
