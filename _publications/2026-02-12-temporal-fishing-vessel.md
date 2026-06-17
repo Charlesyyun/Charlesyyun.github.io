@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2026-02-12-temporal-fishing-vessel
 date: 2026-02-12
 venue: 'Reliability Engineering & System Safety'
-excerpt: "SCI Q1, IF 11.0"
+excerpt: "SCI Q1, IF 13.7"
 paperurl: 'https://doi.org/10.1016/j.ress.2026.112423'
 citation: 'Ye, Y., Liu, M., Meng, F., Wong, S.C., Gao, X.*, & Yang, Z. (2026). &quot;Temporal instability analysis of fatal commercial fishing vessel incidents: A correlated random-parameter model with heterogeneity in means.&quot; <i>Reliability Engineering & System Safety</i>, 274, 112423.'
 ---
