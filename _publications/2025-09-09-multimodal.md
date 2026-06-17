@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025-09-09-multimodal
 date: 2025-09-09
 venue: 'Results in Engineering'
-excerpt: "ESCI Q1, IF 7.9"
+excerpt: "ESCI Q1, IF 9.4"
 paperurl: 'https://doi.org/10.1016/j.rineng.2025.107204'
 citation: 'Zhou, Q., Chai, B., Guo, Y., Li, T., Zhou, S., Wang, K., & Ye, Y.* (2025). &quot;Multimodal mechanical wear fault diagnosis: Fusion of signal characterization and image information.&quot; <i>Results in Engineering</i>, 28, 107204.'
 ---
