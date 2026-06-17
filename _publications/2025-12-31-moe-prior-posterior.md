@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025-12-31-moe-prior-posterior
 date: 2025-12-31
 venue: 'Neurocomputing'
-excerpt: "SCI Q1, IF 6.5"
+excerpt: "SCI Q1, IF 6.7"
 paperurl: 'https://doi.org/10.1016/j.neucom.2025.132601'
 citation: 'Zhou, Q., Chai, B., Li, Y., Tang, C., Guo, Y., & Ye, Y.* (2026). &quot;A mixture-of-experts prior–posterior fusion framework for predicting the remaining useful life of aerospace high-speed bearings.&quot; <i>Neurocomputing</i>, 670, 132601.'
 ---
