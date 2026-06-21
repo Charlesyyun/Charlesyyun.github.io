@@ -103,6 +103,7 @@ redirect_from:
 * Journal Reviewer
   * ACM Transactions on Knowledge Discovery from Data
   * Accident Analysis & Prevention
+  * Advanced Engineering Informatics
   * Applied Soft Computing
   * Cybernetics & Systems
   * IEEE Transactions on Intelligent Transportation Systems
