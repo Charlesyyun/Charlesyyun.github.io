@@ -81,6 +81,7 @@ Laplace approximation](https://doi.org/10.1016/j.ress.2026.112864). *Reliability
 * Journal Reviewer
   * ACM Transactions on Knowledge Discovery from Data
   * Accident Analysis & Prevention
+  * Advanced Engineering Informatics
   * Applied Soft Computing
   * Cybernetics & Systems
   * IEEE Transactions on Intelligent Transportation Systems
