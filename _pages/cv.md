@@ -98,6 +98,8 @@ redirect_from:
   
 🤝 Service
 ======
+* Editor
+  * [EAI Endorsed Transactions on Human-Computer Interaction](https://publications.eai.eu/index.php/hci)
 * Guest Editor
   * [Special Issue: Next-Generation AI and Foundation Models for Transportation Systems](https://www.mdpi.com/journal/futuretransp/special_issues/75RN94DDCM), Future Transportation
 * Journal Reviewer
