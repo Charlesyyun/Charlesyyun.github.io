@@ -86,6 +86,7 @@ Laplace approximation](https://doi.org/10.1016/j.ress.2026.112864). *Reliability
   * Advanced Engineering Informatics
   * Applied Soft Computing
   * Cybernetics & Systems
+  * IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
   * IEEE Transactions on Intelligent Transportation Systems
   * IET Intelligent Transportation Systems
   * International Journal of Human-Computer Interaction
