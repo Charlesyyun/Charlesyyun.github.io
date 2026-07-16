@@ -108,6 +108,7 @@ redirect_from:
   * Advanced Engineering Informatics
   * Applied Soft Computing
   * Cybernetics & Systems
+  * IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
   * IEEE Transactions on Intelligent Transportation Systems
   * IET Intelligent Transportation Systems
   * International Journal of Human-Computer Interaction
