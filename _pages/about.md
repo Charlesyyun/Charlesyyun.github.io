@@ -89,6 +89,7 @@ Laplace approximation](https://doi.org/10.1016/j.ress.2026.112864). *Reliability
   * IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
   * IEEE Transactions on Intelligent Transportation Systems
   * IEEE Transactions on Industrial Informatics
+  * IET Image Processing
   * IET Intelligent Transportation Systems
   * International Journal of Human-Computer Interaction
   * JMIR Public Health and Surveillance
