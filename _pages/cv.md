@@ -111,6 +111,7 @@ redirect_from:
   * IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
   * IEEE Transactions on Intelligent Transportation Systems
   * IEEE Transactions on Industrial Informatics
+  * IET Image Processing
   * IET Intelligent Transportation Systems
   * International Journal of Human-Computer Interaction
   * JMIR Public Health and Surveillance
