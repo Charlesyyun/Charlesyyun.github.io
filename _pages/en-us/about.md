@@ -23,11 +23,11 @@ Dr. Yun (Charles) Ye is an Associate Professor in the Faculty of Maritime and Tr
 For more details of our group, please visit: [Traffic Safety and Intelligence Laboratory, TSI Lab](https://charlesyyun.github.io/tsilab/)
 
 # Research Interests
- * Traffic safety
- * Maritime transport
- * Human factors
- * Data-driven and physics-informed modeling
- * Intelligent transportation systems
+ * Transportation
+ * Risk and Resilience
+ * Human-Computer Interaction (HCI)
+ * Psychology and Behavior
+ * AI and Statistics
 
 # Education
  * 2017-2021: Ph.D in Traffic and Transportation Engineering, The University of Hong Kong
