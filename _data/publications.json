@@ -1,7 +1,7 @@
 [
   {
     "title": "Latent Diffusion Neural Fields for zero-shot and uncertainty-aware bearing remaining useful life prediction",
-    "image": "",
+    "image": "ress4.png",
     "description": "SCI, JCR Q1, IF 13.7",
     "authors": "Zhou, Q., Chai, B., Tang, C., Guo, Y., & Ye, Y. * (2026)",
     "url": "https://doi.org/10.1016/j.ress.2026.113042",
@@ -49,7 +49,7 @@
   },
   {
     "title": "Modeling Traffic Crash Severity in Complex Transportation Systems: An Efficient and Interpretable Tabular Learning Framework Under Class Imbalance",
-    "image": "",
+    "image": "sys1.png",
     "description": "SSCI, JCR Q1, IF 3.9",
     "authors": "Li, Z., Cao, S., Miao, T., Fang, B,, & Ye, Y.* (2026)",
     "url": "https://doi.org/10.3390/systems14050548",
@@ -61,7 +61,7 @@
   },
   {
     "title": "AD-YOLO: A Unified Method for Traffic-Dense and Small Object Detection in UAV Images",
-    "image": "",
+    "image": "drones1.png",
     "description": "SCI, JCR Q1, IF 5.2",
     "authors": "Deng, Y., Hu, Y., Ye, Y., & Xu, P.* (2026)",
     "url": "https://doi.org/10.3390/drones10050338",
@@ -97,7 +97,7 @@
   },
   {
     "title": "An enhanced connected banking system optimizer with multiple strategies for numerical optimization problems",
-    "image": "",
+    "image": "sr1.png",
     "description": "SCI, JCR Q1, IF 4.9",
     "authors": "Yin, Y., Liu, H., Cai, S., & Ye, Y.* (2026)",
     "url": "https://doi.org/10.1038/s41598-026-38261-9",
@@ -109,7 +109,7 @@
   },
   {
     "title": "An enhanced connected banking system optimizer incorporating triple mechanism for solving global optimization problems",
-    "image": "",
+    "image": "sr2.png",
     "description": "SCI, JCR Q1, IF 4.9",
     "authors": "Qian, D., Cai, X., Feng, L., & Ye, Y.* (2026)",
     "url": "https://doi.org/10.1038/s41598-026-36149-2",
@@ -133,7 +133,7 @@
   },
   {
     "title": "Multimodal mechanical wear fault diagnosis: Fusion of signal characterization and image information",
-    "image": "",
+    "image": "rineng1.png",
     "description": "ESCI, JCR Q1, IF 9.4",
     "authors": "Zhou, Q., Chai, B., Guo, Y., Li, T., Zhou, S., Wang, K., & Ye, Y.* (2025)",
     "url": "https://doi.org/10.1016/j.rineng.2025.107204",
@@ -157,7 +157,7 @@
   },
   {
     "title": "Enhanced YOLOv8 with DWR-DRB and SPD-Conv for mechanical wear fault diagnosis in aero engines",
-    "image": "",
+    "image": "sensors1.png",
     "description": "SCI, JCR Q2, IF 4.0",
     "authors": "Zhou, Q., Chai, B., Tang, C., Guo, Y., Wang, K., Nie, X., & Ye, Y.* (2025)",
     "url": "https://doi.org/10.3390/s25175294",
@@ -193,7 +193,7 @@
   },
   {
     "title": "A Transformer–VAE Approach for Detecting Ship Trajectory Anomalies in Cross-Sea Bridge Areas",
-    "image": "",
+    "image": "jmse1.png",
     "description": "SCI, JCR Q2, IF 3.2",
     "authors": "Hou, J., Zhou, H., Grifoll, M., Zhou, Y., Liu, J., Ye, Y.*, & Zheng, P. (2025)",
     "url": "https://doi.org/10.3390/jmse13050849",
@@ -217,7 +217,7 @@
   },
   {
     "title": "USD-YOLO: An Enhanced YOLO Algorithm for Small Object Detection in Unmanned Systems Perception",
-    "image": "",
+    "image": "appsci1.png",
     "description": "SCI, JCR Q2, IF 2.9",
     "authors": "Deng, H., Zhang, S., Wang, X., Han, T. & Ye, Y.* (2025)",
     "url": "https://doi.org/10.3390/app15073795",
@@ -260,7 +260,7 @@
     "venue": "The 31st International Conference on Neural Information Processing (ICONIP 2024), Auckland, New Zealand",
     "abstract": "",
     "details": "",
-    "year": 0,
+    "year": 2024,
     "selected": true
   },
   {
@@ -272,7 +272,7 @@
     "venue": "The 27th IEEE International Conference on Intelligent Transportation Systems (ITSC 2024), Edmonton, Canada",
     "abstract": "",
     "details": "",
-    "year": 0,
+    "year": 2024,
     "selected": true
   },
   {
@@ -325,7 +325,7 @@
   },
   {
     "title": "A Novel virtual arrival optimization method for traffic organization scenarios",
-    "image": "ShotNoise.png",
+    "image": "sus3.png",
     "description": "SCI/SSCI, JCR Q2, IF 4.1",
     "authors": "Shao, T., Du, W., Ye, Y., Li, H., Dong, J., Liu, G.*, & Zheng, P.* (2024)",
     "url": "https://doi.org/10.1016/j.sust.2024.101010",
@@ -337,7 +337,7 @@
   },
   {
     "title": "Effects of aging on taxi service performance: A comparative study based on different age groups",
-    "image": "ShotNoise.png",
+    "image": "sus2.png",
     "description": "SCI/SSCI, JCR Q2, IF 4.1",
     "authors": "Lin, X., Huang, Z., Ye, Y., Dong, J., Feng, H., & Zheng, P.* (2023)",
     "url": "https://doi.org/10.1016/j.sust.2023.16096",
@@ -349,7 +349,7 @@
   },
   {
     "title": "Identification of risk influential factors for fishing vessel accidents using claims data from fishery mutual insurance association",
-    "image": "ShotNoise.png",
+    "image": "sus1.png",
     "description": "SCI/SSCI, JCR Q2, IF 4.1",
     "authors": "Wang, F., Du, W., Feng, H., Ye, Y., Grifoll, M., Liu, G.*, & Zheng, P.* (2023)",
     "url": "https://doi.org/10.1016/j.sust.2023.13427",
