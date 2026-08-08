@@ -1,0 +1,10 @@
+<!DOCTYPE html> <html lang="en"> <head> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>Page not found</title> <script>
+      (function () {
+        var legacyPrefix = "/cn_charlesyyun.github.io";
+        if (window.location.pathname.indexOf(legacyPrefix) === 0) {
+          var suffix = window.location.pathname.slice(legacyPrefix.length);
+          var target = "/zh-cn" + (suffix || "/") + window.location.search + window.location.hash;
+          window.location.replace(target);
+        }
+      })();
+    </script> <style>body{max-width:42rem;margin:12vh auto;padding:0 1.25rem;font:1rem/1.6 system-ui,sans-serif}a{color:#b509ac}</style> </head> <body> <h1>Page not found / 页面未找到</h1> <p>The requested page does not exist. Visit the <a href="/zh-cn/">English homepage</a>.</p> <p>请求的页面不存在，请访问<a href="/zh-cn/">中文主页</a>。</p> </body> </html>
