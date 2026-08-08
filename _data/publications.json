@@ -288,6 +288,18 @@
     "selected": true
   },
   {
+    "title": "A Novel virtual arrival optimization method for traffic organization scenarios",
+    "image": "sus3.png",
+    "description": "SCI/SSCI, JCR Q2, IF 4.1",
+    "authors": "Shao, T., Du, W., Ye, Y., Li, H., Dong, J., Liu, G.*, & Zheng, P.* (2024)",
+    "url": "https://doi.org/10.1016/j.sust.2024.101010",
+    "venue": "Sustainability, 16(1), 403",
+    "abstract": "",
+    "details": "",
+    "year": 2024,
+    "selected": false
+  }
+  {
     "title": "Crossing behaviors of drunk pedestrians unfamiliar with local traffic rules",
     "image": "ss1.png",
     "description": "SCI, JCR Q1, IF 6.2",
@@ -299,6 +311,30 @@
     "year": 2023,
     "selected": true
   },
+    {
+    "title": "Effects of aging on taxi service performance: A comparative study based on different age groups",
+    "image": "sus2.png",
+    "description": "SCI/SSCI, JCR Q2, IF 4.1",
+    "authors": "Lin, X., Huang, Z., Ye, Y., Dong, J., Feng, H., & Zheng, P.* (2023)",
+    "url": "https://doi.org/10.1016/j.sust.2023.16096",
+    "venue": "Sustainability, 15(22), 16096",
+    "abstract": "",
+    "details": "",
+    "year": 2023,
+    "selected": false
+  },
+  {
+    "title": "Identification of risk influential factors for fishing vessel accidents using claims data from fishery mutual insurance association",
+    "image": "sus1.png",
+    "description": "SCI/SSCI, JCR Q2, IF 4.1",
+    "authors": "Wang, F., Du, W., Feng, H., Ye, Y., Grifoll, M., Liu, G.*, & Zheng, P.* (2023)",
+    "url": "https://doi.org/10.1016/j.sust.2023.13427",
+    "venue": "Sustainability, 15(18), 13427",
+    "abstract": "",
+    "details": "",
+    "year": 2023,
+    "selected": false
+  }
   {
     "title": "Right-looking habit and maladaptation of pedestrians in areas with unfamiliar driving rules",
     "image": "aap2.png",
@@ -322,41 +358,5 @@
     "details": "/publication/2020-07-01-vr-pedestrian/",
     "year": 2020,
     "selected": true
-  },
-  {
-    "title": "A Novel virtual arrival optimization method for traffic organization scenarios",
-    "image": "sus3.png",
-    "description": "SCI/SSCI, JCR Q2, IF 4.1",
-    "authors": "Shao, T., Du, W., Ye, Y., Li, H., Dong, J., Liu, G.*, & Zheng, P.* (2024)",
-    "url": "https://doi.org/10.1016/j.sust.2024.101010",
-    "venue": "Sustainability, 16(1), 403",
-    "abstract": "",
-    "details": "",
-    "year": 2024,
-    "selected": false
-  },
-  {
-    "title": "Effects of aging on taxi service performance: A comparative study based on different age groups",
-    "image": "sus2.png",
-    "description": "SCI/SSCI, JCR Q2, IF 4.1",
-    "authors": "Lin, X., Huang, Z., Ye, Y., Dong, J., Feng, H., & Zheng, P.* (2023)",
-    "url": "https://doi.org/10.1016/j.sust.2023.16096",
-    "venue": "Sustainability, 15(22), 16096",
-    "abstract": "",
-    "details": "",
-    "year": 2023,
-    "selected": false
-  },
-  {
-    "title": "Identification of risk influential factors for fishing vessel accidents using claims data from fishery mutual insurance association",
-    "image": "sus1.png",
-    "description": "SCI/SSCI, JCR Q2, IF 4.1",
-    "authors": "Wang, F., Du, W., Feng, H., Ye, Y., Grifoll, M., Liu, G.*, & Zheng, P.* (2023)",
-    "url": "https://doi.org/10.1016/j.sust.2023.13427",
-    "venue": "Sustainability, 15(18), 13427",
-    "abstract": "",
-    "details": "",
-    "year": 2023,
-    "selected": false
   }
 ]
