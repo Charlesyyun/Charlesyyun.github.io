@@ -140,3 +140,5 @@ Laplace approximation](https://doi.org/10.1016/j.ress.2026.112864). *Reliability
 ## Latest news
 
 {% include shared_news.liquid audience="personal" limit=5 %}
+
+<a href="https://info.flagcounter.com/HJGs"><img src="https://s01.flagcounter.com/countxl/HJGs/bg_F7FFFB/txt_050505/border_0F0F0F/columns_6/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
