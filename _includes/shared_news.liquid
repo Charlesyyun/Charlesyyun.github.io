@@ -1,0 +1,19 @@
+<div class="shared-news">
+  {% assign shown = 0 %}
+  {% for item in site.data.news %}
+    {% if item.audience contains include.audience %}
+      <article class="news-row">
+        <time datetime="{{ item.date }}">{{ item.date | date: '%Y-%m-%d' }}</time>
+        <div>
+          {% if site.active_lang == 'zh-cn' %}
+            {{ item.zh | markdownify }}
+          {% else %}
+            {{ item.en | markdownify }}
+          {% endif %}
+        </div>
+      </article>
+      {% assign shown = shown | plus: 1 %}
+      {% if include.limit and shown >= include.limit %}{% break %}{% endif %}
+    {% endif %}
+  {% endfor %}
+</div>

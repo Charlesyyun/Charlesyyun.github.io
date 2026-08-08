@@ -1,0 +1,50 @@
+<div class="shared-publications">
+  {% assign current_year = '' %}
+  {% for paper in site.data.publications %}
+    {% if include.selected and paper.selected != true %}
+      {% continue %}
+    {% endif %}
+    {% if paper.year != current_year %}
+      {% assign current_year = paper.year %}
+      <h2 class="bibliography-year">{{ current_year }}</h2>
+    {% endif %}
+    <article class="publication-card">
+      {% if paper.image and paper.image != '' %}
+        <img
+          class="publication-preview"
+          src="{{ '/assets/img/publication_preview/' | append: paper.image | relative_url }}"
+          alt="Preview for {{ paper.title | escape }}"
+          loading="lazy"
+        >
+      {% endif %}
+      <div class="publication-copy">
+        <h3>
+          {% if paper.url and paper.url != '' %}
+            <a href="{{ paper.url }}">{{ paper.title }}</a>
+          {% else %}
+            {{ paper.title }}
+          {% endif %}
+        </h3>
+        <p class="authors">{{ paper.authors }}</p>
+        <p class="venue"><em>{{ paper.venue }}</em></p>
+        {% if paper.description and paper.description != '' %}
+          <span class="publication-badge">{{ paper.description }}</span>
+        {% endif %}
+        <div class="publication-links">
+          {% if paper.url and paper.url != '' %}<a href="{{ paper.url }}">DOI</a>{% endif %}
+          {% if paper.details and paper.details != '' %}
+            <a href="{{ paper.details | relative_url }}">
+              {% if site.active_lang == 'zh-cn' %}详情{% else %}Details{% endif %}
+            </a>
+          {% endif %}
+        </div>
+        {% if paper.abstract and paper.abstract != '' %}
+          <details>
+            <summary>{% if site.active_lang == 'zh-cn' %}摘要{% else %}Abstract{% endif %}</summary>
+            <p>{{ paper.abstract }}</p>
+          </details>
+        {% endif %}
+      </div>
+    </article>
+  {% endfor %}
+</div>
