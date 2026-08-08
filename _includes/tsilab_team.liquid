@@ -1,0 +1,42 @@
+{% assign categories = 'principal_investigator,student,alumni' | split: ',' %}
+{% for category in categories %}
+  {% if site.active_lang == 'zh-cn' %}
+    {% case category %}
+      {% when 'principal_investigator' %}{% assign heading = '负责人' %}
+      {% when 'student' %}{% assign heading = '在读学生' %}
+      {% when 'alumni' %}{% assign heading = '毕业生与校友' %}
+      {% when 'visitor' %}{% assign heading = '访问成员' %}
+    {% endcase %}
+  {% else %}
+    {% case category %}
+      {% when 'principal_investigator' %}{% assign heading = 'Principal investigator' %}
+      {% when 'student' %}{% assign heading = 'Current students' %}
+      {% when 'alumni' %}{% assign heading = 'Alumni' %}
+      {% when 'visitor' %}{% assign heading = 'Visitors' %}
+    {% endcase %}
+  {% endif %}
+  <h2>{{ heading }}</h2>
+  <div class="team-grid">
+    {% for member in site.data.tsilab_team %}
+      {% if member.category == category %}
+        <article class="team-card">
+          <img
+            src="{{ '/assets/img/tsilab/team/' | append: member.photo | relative_url }}"
+            alt="{{ member.name | escape }}"
+            loading="lazy"
+          >
+          <div>
+            <h3>{{ member.name }}</h3>
+            {% if site.active_lang == 'zh-cn' %}
+              <p>{{ member.info_zh }}</p>
+              <ul>{% for line in member.education_zh %}<li>{{ line }}</li>{% endfor %}</ul>
+            {% else %}
+              <p>{{ member.info_en }}</p>
+              <ul>{% for line in member.education_en %}<li>{{ line }}</li>{% endfor %}</ul>
+            {% endif %}
+          </div>
+        </article>
+      {% endif %}
+    {% endfor %}
+  </div>
+{% endfor %}

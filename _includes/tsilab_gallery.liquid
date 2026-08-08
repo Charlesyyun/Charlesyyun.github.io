@@ -1,0 +1,11 @@
+<div class="tsi-gallery">
+  {% for filename in site.data.tsilab_gallery %}
+    <a href="{{ '/assets/img/tsilab/gallery/' | append: filename | relative_url }}">
+      <img
+        src="{{ '/assets/img/tsilab/gallery/' | append: filename | relative_url }}"
+        alt="TSI Lab gallery photo"
+        loading="lazy"
+      >
+    </a>
+  {% endfor %}
+</div>
