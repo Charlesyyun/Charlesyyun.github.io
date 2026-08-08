@@ -8,6 +8,7 @@ Unified bilingual academic website for Yun (Charles) Ye and the Traffic Safety a
 - Chinese personal site: `/zh-cn/`
 - English TSI Lab site: `/tsilab/`
 - Chinese TSI Lab site: `/zh-cn/tsilab/`
+- Legacy Chinese URL: `/cn_charlesyyun.github.io/` redirects to `/zh-cn/`
 
 Publications, news, team records, and gallery metadata live in `_data`. Images are shared from `assets/img`.
 
