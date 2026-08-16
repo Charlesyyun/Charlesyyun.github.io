@@ -4,23 +4,23 @@ title: "About"
 lang: en-us
 page_id: about
 permalink: /
-subtitle: Associate Professor · Ningbo University
+subtitle: Research Fellow · University College London
 
 profile:
   align: right
   image: profile.png
   image_circular: false
   more_info: >
-    <p>Faculty of Maritime and Transportation</p>
-    <p>Ningbo University</p>
-    <p>Ningbo, China</p>
+    <p>Bartlett Faculty of Built Environment</p>
+    <p>University College London</p>
+    <p>London, UK</p>
 announcements:
   enabled: false
 social: true
 ---
 Dr. Yun (Charles) Ye is a Research Fellow at [University College London](https://www.ucl.ac.uk/). Dr. Ye received his B.E. degree from [Zhejiang University](https://www.zju.edu.cn/) in 2017 and his Ph.D. degree from [The University of Hong Kong](https://www.hku.hk/) in 2021. From 2021 to 2023, he served as a Senior Research Engineer at the Central Research Institute and Central Media Technology Institute, 2012 Lab, [Huawei Technologies Co., Ltd](https://www.huawei.com/cn/). He is a recipient of the Marie Skłodowska-Curie Actions (MSCA) Seal of Excellence under the European Commission’s Horizon Europe programme. His honors also include the Lee Shau Kee Postgraduate Fellowship and the Civil Centennial Future Scholars Award from The University of Hong Kong; the Young Talent Support Program of Zhejiang Province; the Yongjiang Young Innovative Talent Award and Top Talent Recognition from Ningbo City; and the Yue-Kong Pao Young Top Scholar Award from Ningbo University. His research focuses on human factors and risk decision-making, traffic safety analytics, maritime transport systems, intelligent transportation behavior modeling, and AI-driven safety systems. He has published extensively in leading journals, including *Analytic Methods in Accident Research*, *IEEE Transactions on Intelligent Transportation Systems*, *Reliability Engineering & System Safety*, *Transportation Research Part F: Traffic Psychology and Behaviour*, *Safety Science*, *Accident Analysis & Prevention*, *Travel Behaviour and Society*. He has also presented his work at major international conferences such as *TRB Annual Meeting* and *IEEE ITSC*. Dr. Ye has led or participated in more than ten research and industry-funded projects and serves as a Editorial Board Member of [EAI Endorsed Transactions on Human-Computer Interaction](https://publications.eai.eu/index.php/hci), as well as a reviewer for over 30 international journals and conferences.
 
-For more details of our group, please visit: [Traffic Safety and Intelligence Laboratory, TSI Lab](https://charlesyyun.github.io/tsilab/)
+For more details of my group, please visit: [Traffic Safety and Intelligence Laboratory, TSI Lab](https://charlesyyun.github.io/tsilab/)
 
 # Research Interests
  * Intelligent Transportation Systems (ITS)
@@ -34,7 +34,8 @@ For more details of our group, please visit: [Traffic Safety and Intelligence La
  * 2013-2017: B.Eng. in Civil Engineering, Zhejiang University
 
 # Professional Experience
- * Mar 2023 - Present: Associate Professor, Faculty of Maritime and Transportation, Ningbo University, Ningbo, China
+ * Aug 2026 - Present: Research Fellow, Bartlett Faculty of Built Environment, University College London, London, United Kingdom
+ * Mar 2023 - Aug 2026: Associate Professor, Faculty of Maritime and Transportation, Ningbo University, Ningbo, China
  * Dec 2025 - Jun 2026: Visiting Lecturer/Researcher, SpaceTimeLab, Department of Civil, Environmental and Geomatic Engineering, University College London, London, United Kingdom
  * Apr 2025 - Apr 2026: Academic Visitor, Transport Section, Department of Civil and Environmental Engineering, Imperial College London, London, United Kingdom
  * Sep 2022 - Feb 2023: Senior Research Engineer, Central Media Technology Institute, 2012 Lab, Huawei Technologies, Shenzhen, China
@@ -134,7 +135,7 @@ Laplace approximation](https://doi.org/10.1016/j.ress.2026.112864). *Reliability
 
 # Mailing Address
 <address>
-  Faculty of Maritime and Transportation <br /> Ningbo University (NBU) <br /> No. 818 Fenghua Rd., Jiangbei District <br /> Ningbo 315211, China
+  Bartlett Faculty of Built Environment <br /> University College London <br /> Gower Street, London, WC1E 6BT, United Kingdom
 </address>
 
 ## Latest news
