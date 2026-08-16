@@ -5,18 +5,20 @@ lang: en-us
 page_id: tsilab-join
 permalink: /tsilab/join/
 ---
-We welcome motivated PhD, Master’s, and undergraduate students interested in traffic safety and intelligence.
+TSI Lab welcomes students and researchers who are interested in traffic safety, human–machine interaction, intelligent transportation, maritime safety, and AI-driven transport research.
 
-> **Please note:** the enrollment numbers in the previous site referred to the 2025–2026 academic year. Contact the lab to confirm current openings before applying.
+## Research collaboration
 
-## PhD applications
+Students, researchers, and prospective collaborators who are interested in the lab’s research are welcome to get in touch regarding potential research collaboration, joint projects, visiting opportunities, or co-supervised research.
 
-Email [yeyun1@nbu.edu.cn](mailto:yeyun1@nbu.edu.cn) with a short explanation of your interests and a CV that includes your Master’s publications and undergraduate grades. Use **Application PhD** as the subject line.
-
-## Master’s applications
-
-Email [yeyun1@nbu.edu.cn](mailto:yeyun1@nbu.edu.cn) with a short explanation of your interests, a CV, and undergraduate grade information. Use **Application Master** as the subject line.
+Please email [yun.ye@ucl.ac.uk](mailto:yun.ye@ucl.ac.uk) with a brief introduction, your research interests, and a CV.
 
 ## Student projects
 
-Ningbo University students seeking undergraduate, Master’s, or PhD projects are welcome to contact the principal investigator or a group member.
+Email [yun.ye@ucl.ac.uk](mailto:yun.ye@ucl.ac.uk) with a short explanation of your interests, a CV, and undergraduate grade information. Use **Application Master** as the subject line.
+
+## Student projects
+
+Undergraduate, Master’s, and PhD students interested in participating in research projects related to the lab’s research areas are welcome to contact the Principal Investigator or relevant group members to discuss possible opportunities.
+
+Please note that participation in research projects does not constitute admission to a degree programme or imply the availability of formal student positions.
