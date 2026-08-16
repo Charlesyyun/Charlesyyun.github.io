@@ -3,11 +3,12 @@
     "name": "Yun Ye",
     "category": "principal_investigator",
     "photo": "yunye.png",
-    "info_en": "Associate professor, started Mar 2023",
-    "info_zh": "副教授, 始于3月 2023",
+    "info_en": "Research Fellow, University College London",
+    "info_zh": "研究员, 伦敦大学学院UCL",
     "education_en": [
       "Visiting Lecturer/Researcher, University College London",
       "Visiting Academic, Imperial College London",
+      "Associate Professor, Ningbo University",
       "Senior Research Engineer, 2012 Lab, Huawei Technology",
       "Ph.D. with <a href=\"https://www.civil.hku.hk/scwong/\"> Prof. S.C. Wong</a>, The University of Hong Kong",
       "B.Eng. with <a href=\"https://person.zju.edu.cn/en/xiqun\"> Prof. Xiqun Chen</a>, Zhejiang University"
@@ -15,6 +16,7 @@
     "education_zh": [
       "访问讲师/研究员, 伦敦大学学院",
       "访问学者, 帝国理工学院",
+      "副教授，宁波大学",
       "高级研究工程师, 2012 Lab, Huawei 技术",
       "Ph.D. with <a href=\"https://www.civil.hku.hk/scwong/\"> Prof. S.C. Wong</a>, 香港大学",
       "B.Eng. with <a href=\"https://person.zju.edu.cn/en/xiqun\"> Prof. Xiqun Chen</a>, 浙江大学"
