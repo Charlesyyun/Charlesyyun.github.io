@@ -89,9 +89,7 @@ Laplace approximation](https://doi.org/10.1016/j.ress.2026.112864). *Reliability
 
 # 通讯地址
 <address>
-  Bartlett Faculty of Built Environment</p>
-  University College London</p>
-  Gower Street, London, WC1E 6BT, United Kingdom
+  Bartlett Faculty of Built Environment <br /> University College London <br /> Gower Street, London, WC1E 6BT, United Kingdom
 </address>
 
 ## 最新动态
