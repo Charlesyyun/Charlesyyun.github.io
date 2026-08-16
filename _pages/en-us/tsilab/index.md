@@ -31,7 +31,7 @@ children:
 <img class="tsi-slide" src="{{ '/assets/img/tsilab/slides/slide7.png' | relative_url }}" alt="TSI Lab activity 7">
 </div>
 
-Traffic Safety and Intelligence Laboratory (TSI Lab) is part of the Faculty of Maritime and Transportation at Ningbo University. Centering its work on people, the lab studies traffic safety and intelligence through virtual reality, human factors, human–machine interaction, travel behavior, maritime safety, and AI-driven transport modeling.
+Traffic Safety and Intelligence Laboratory (TSI Lab) centers its work on people. The lab studies traffic safety and intelligent transportation through virtual reality, human factors, human–machine interaction, travel behavior, maritime safety, and AI-driven transport modeling.
 
 ## Latest lab news
 
