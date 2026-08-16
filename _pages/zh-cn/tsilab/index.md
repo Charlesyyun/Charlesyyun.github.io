@@ -31,7 +31,7 @@ children:
 <img class="tsi-slide" src="{{ '/assets/img/tsilab/slides/slide7.png' | relative_url }}" alt="TSI Lab activity 7">
 </div>
 
-交通安全与智能实验室（TSI Lab）隶属于宁波大学海运学院。实验室以“人”为核心，围绕交通安全与智能两条主线，开展虚拟现实、人因机理、人机交互、出行行为、海事安全和人工智能交通建模研究。
+交通安全与智能实验室（TSI Lab）以“人”为核心，围绕交通安全与智能两条主线，开展虚拟现实、人因机理、人机交互、出行行为、海事安全和人工智能交通建模研究。
 
 ## 实验室动态
 
