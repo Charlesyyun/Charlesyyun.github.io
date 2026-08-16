@@ -4,7 +4,7 @@
     "category": "principal_investigator",
     "photo": "yunye.png",
     "info_en": "Research Fellow, University College London",
-    "info_zh": "研究员, 伦敦大学学院UCL",
+    "info_zh": "研究员，伦敦大学学院",
     "education_en": [
       "Visiting Lecturer/Researcher, University College London",
       "Visiting Academic, Imperial College London",
@@ -14,12 +14,12 @@
       "B.Eng. with <a href=\"https://person.zju.edu.cn/en/xiqun\"> Prof. Xiqun Chen</a>, Zhejiang University"
     ],
     "education_zh": [
-      "访问讲师/研究员, 伦敦大学学院",
-      "访问学者, 帝国理工学院",
+      "访问讲师/研究员，伦敦大学学院",
+      "访问学者，帝国理工学院",
       "副教授，宁波大学",
-      "高级研究工程师, 2012 Lab, Huawei 技术",
-      "Ph.D. with <a href=\"https://www.civil.hku.hk/scwong/\"> Prof. S.C. Wong</a>, 香港大学",
-      "B.Eng. with <a href=\"https://person.zju.edu.cn/en/xiqun\"> Prof. Xiqun Chen</a>, 浙江大学"
+      "高级研究工程师，华为技术有限公司2012实验室",
+      "博士，师从<a href=\"https://www.civil.hku.hk/scwong/\">S.C. Wong教授</a>，香港大学",
+      "工学学士，师从<a href=\"https://person.zju.edu.cn/en/xiqun\">陈喜群教授</a>，浙江大学"
     ]
   },
   {
@@ -27,14 +27,14 @@
     "category": "student",
     "photo": "zeweili.png",
     "info_en": "Master, started Sep 2024",
-    "info_zh": "硕士研究生，入学于 Sep 2024",
+    "info_zh": "硕士研究生，2024年9月入学",
     "education_en": [
       "B.Eng., Ningbo University of Technology",
       "Research interests include data mining and traffic accident modeling"
     ],
     "education_zh": [
-      "B.Eng., 宁波大学 of 技术",
-      "研究方向包括 数据挖掘 and 交通 accident 建模"
+      "工学学士，宁波工程学院",
+      "研究方向包括数据挖掘与交通事故建模"
     ]
   },
   {
@@ -42,14 +42,14 @@
     "category": "student",
     "photo": "siyucao.png",
     "info_en": "Master, started Sep 2024",
-    "info_zh": "硕士研究生，入学于 Sep 2024",
+    "info_zh": "硕士研究生，2024年9月入学",
     "education_en": [
       "B.Eng., Shandong Agriculture And Engineering University",
       "Research interests include robotaxi and travel mode choice"
     ],
     "education_zh": [
-      "B.Eng., Shandong Agriculture And Engineering University",
-      "研究方向包括 robotaxi and travel mode choice"
+      "工学学士，山东农业工程学院",
+      "研究方向包括自动驾驶出租车与出行方式选择"
     ]
   },
   {
@@ -57,14 +57,14 @@
     "category": "student",
     "photo": "taomiao.png",
     "info_en": "Master, started Sep 2024",
-    "info_zh": "硕士研究生，入学于 Sep 2024",
+    "info_zh": "硕士研究生，2024年9月入学",
     "education_en": [
       "B.Eng., Zhejiang Shuren University",
       "Research interests include traffic flow model and PINNs"
     ],
     "education_zh": [
-      "B.Eng., Zhejiang Shuren University",
-      "研究方向包括 交通 flow model and PINNs"
+      "工学学士，浙江树人学院",
+      "研究方向包括交通流模型与物理信息神经网络（PINNs）"
     ]
   },
   {
@@ -72,14 +72,14 @@
     "category": "student",
     "photo": "binfang.png",
     "info_en": "Master, started Sep 2025",
-    "info_zh": "硕士研究生，入学于 Sep 2025",
+    "info_zh": "硕士研究生，2025年9月入学",
     "education_en": [
       "B.Eng., Ningbo University of Technology",
       "Research interests include maritime traffic safety and data mining"
     ],
     "education_zh": [
-      "B.Eng., 宁波工程学院",
-      "研究方向包括 海事 交通 安全 and 数据挖掘"
+      "工学学士，宁波工程学院",
+      "研究方向包括海上交通安全与数据挖掘"
     ]
   },
   {
@@ -87,14 +87,14 @@
     "category": "student",
     "photo": "meijiaoguo.png",
     "info_en": "Master, started Sep 2025",
-    "info_zh": "硕士研究生，入学于 Sep 2025",
+    "info_zh": "硕士研究生，2025年9月入学",
     "education_en": [
       "B.Eng., Shanxi Institute of Energy",
       "Research interests include eHMI and pedestrian-AVs interaction simulation"
     ],
     "education_zh": [
-      "B.Eng., Shanxi Institute of Energy",
-      "研究方向包括 eHMI and 行人-AVs interaction 仿真"
+      "工学学士，山西能源学院",
+      "研究方向包括外部人机界面（eHMI）与行人—自动驾驶车辆交互仿真"
     ]
   },
   {
@@ -102,14 +102,14 @@
     "category": "student",
     "photo": "tianciguo.png",
     "info_en": "Master, started Sep 2025",
-    "info_zh": "硕士研究生，入学于 Sep 2025",
+    "info_zh": "硕士研究生，2025年9月入学",
     "education_en": [
       "B.Eng., Henan University of Science and Technology",
       "Research interests include autonomous vehicle decision making and planning"
     ],
     "education_zh": [
-      "B.Eng., Henan University of Science and 技术",
-      "研究方向包括 autonomous vehicle 决策 and 规划"
+      "工学学士，河南科技大学",
+      "研究方向包括自动驾驶车辆决策与规划"
     ]
   },
   {
@@ -117,16 +117,16 @@
     "category": "alumni",
     "photo": "yuanche.png",
     "info_en": "Master, graduated 2026",
-    "info_zh": "硕士，毕业于 2026",
+    "info_zh": "硕士，2026年毕业",
     "education_en": [
       "B.Eng., Anhui Jianzhu University",
       "Master, Ningbo University",
       "A Virtual Reality-Based Study on Pedestrian-Autonomous Trucks Crossing Interaction Behavior and Risk"
     ],
     "education_zh": [
-      "B.Eng., Anhui Jianzhu University",
-      "Master, 宁波大学",
-      "A Virtual Reality-Based Study on Pedestrian-Autonomous Trucks Crossing Interaction Behavior and Risk"
+      "工学学士，安徽建筑大学",
+      "硕士，宁波大学",
+      "基于虚拟现实的行人—自动驾驶卡车过街交互行为与风险研究"
     ]
   },
   {
@@ -134,16 +134,16 @@
     "category": "alumni",
     "photo": "zexuanli.png",
     "info_en": "Master, graduated 2026",
-    "info_zh": "硕士，毕业于 2026",
+    "info_zh": "硕士，2026年毕业",
     "education_en": [
       "B.Eng., Nantong University",
       "Master, Ningbo University",
       "Effects of Autonomous Vehicle External Human-Machine Interfaces on Pedestrian Crossing Behavior in Complex Multi-Lane Interaction Scenarios"
     ],
     "education_zh": [
-      "B.Eng., Nantong University",
-      "Master, 宁波大学",
-      "Effects of Autonomous Vehicle External Human-Machine Interfaces on Pedestrian Crossing Behavior in Complex Multi-Lane Interaction Scenarios"
+      "工学学士，南通大学",
+      "硕士，宁波大学",
+      "复杂多车道交互场景下自动驾驶车辆外部人机界面对行人过街行为的影响"
     ]
   },
   {
@@ -151,16 +151,16 @@
     "category": "alumni",
     "photo": "zhihaozhou.png",
     "info_en": "Master, graduated 2026",
-    "info_zh": "硕士，毕业于 2026",
+    "info_zh": "硕士，2026年毕业",
     "education_en": [
       "B.Eng., Ningbo University of Technology",
       "Master, Ningbo University",
       "Research on Mechanism-Data Hybrid-Driven Pedestrian Behavior Simulation and Trajectory Prediction in Pedestrian-Vehicle Interaction Scenarios"
     ],
     "education_zh": [
-      "B.Eng., 宁波大学 of 技术",
-      "Master, 宁波大学",
-      "Research on Mechanism-Data Hybrid-Driven Pedestrian Behavior Simulation and Trajectory Prediction in Pedestrian-Vehicle Interaction Scenarios"
+      "工学学士，宁波工程学院",
+      "硕士，宁波大学",
+      "行人—车辆交互场景下机理—数据混合驱动的行人行为仿真与轨迹预测研究"
     ]
   },
   {
@@ -168,14 +168,14 @@
     "category": "alumni",
     "photo": "male.png",
     "info_en": "B.Eng., graduated 2024",
-    "info_zh": "本科，毕业于 2024",
+    "info_zh": "本科，2024年毕业",
     "education_en": [
       "B.Eng., Ningbo University",
       "Study on subjective risk perception of pedestrian-vehicle interaction on port roads"
     ],
     "education_zh": [
-      "B.Eng., 宁波大学",
-      "Study on subjective risk perception of 行人-vehicle interaction on port roads"
+      "工学学士，宁波大学",
+      "港区道路行人—车辆交互主观风险感知研究"
     ]
   },
   {
@@ -183,16 +183,16 @@
     "category": "alumni",
     "photo": "male.png",
     "info_en": "B.Eng., graduated 2024; MSC Shipmanagement (Ningbo) Co., Ltd.",
-    "info_zh": "本科，毕业于 2024; MSC Shipmanagement (Ningbo) Co., Ltd.",
+    "info_zh": "本科，2024年毕业；MSC船舶管理（宁波）有限公司",
     "education_en": [
       "MSC Shipmanagement (Ningbo) Co., Ltd.",
       "B.Eng., Ningbo University",
       "The influence of rainy and foggy weather on human-vehicle interaction in the port"
     ],
     "education_zh": [
-      "MSC Shipmanagement (Ningbo) Co., Ltd.",
-      "B.Eng., 宁波大学",
-      "The influence of rainy and foggy weather on human-vehicle interaction in the port"
+      "MSC船舶管理（宁波）有限公司",
+      "工学学士，宁波大学",
+      "雨雾天气对港区人车交互的影响"
     ]
   },
   {
@@ -200,16 +200,16 @@
     "category": "alumni",
     "photo": "jiahaozhang.png",
     "info_en": "B.Eng., graduated 2025 (Outstanding dissertation award); PhD candidate, Zhejiang University",
-    "info_zh": "本科，毕业于 2025 (优秀毕业论文奖); 博士研究生, 浙江大学",
+    "info_zh": "本科，2025年毕业（优秀毕业论文奖）；浙江大学博士研究生",
     "education_en": [
       "PhD candidate, Zhejiang University",
       "B.Eng., Ningbo University",
       "Research on ship target detection under low resolution conditions"
     ],
     "education_zh": [
-      "博士研究生, 浙江大学",
-      "B.Eng., 宁波大学",
-      "Research on ship target detection under low resolution conditions"
+      "博士研究生，浙江大学",
+      "工学学士，宁波大学",
+      "低分辨率条件下船舶目标检测研究"
     ]
   },
   {
@@ -217,14 +217,14 @@
     "category": "alumni",
     "photo": "female.png",
     "info_en": "B.Eng., graduated 2025 (Outstanding dissertation award)",
-    "info_zh": "本科，毕业于 2025 (优秀毕业论文奖)",
+    "info_zh": "本科，2025年毕业（优秀毕业论文奖）",
     "education_en": [
       "B.Eng., Ningbo University",
       "Random parameter model-based analysis of influencing factors in ship accidents"
     ],
     "education_zh": [
-      "B.Eng., 宁波大学",
-      "Random parameter model-based analysis of influencing factors in ship accidents"
+      "工学学士，宁波大学",
+      "基于随机参数模型的船舶事故影响因素分析"
     ]
   },
   {
@@ -232,16 +232,16 @@
     "category": "alumni",
     "photo": "male.png",
     "info_en": "B.Eng., graduated 2025 (Outstanding dissertation award); Master student, Ningbo University",
-    "info_zh": "本科，毕业于 2025 (优秀毕业论文奖); 硕士研究生, 宁波大学",
+    "info_zh": "本科，2025年毕业（优秀毕业论文奖）；宁波大学硕士研究生",
     "education_en": [
       "Master student, Ningbo University",
       "B.Eng., Ningbo University",
       "Prediction and analysis of ship accidents based on machine learning algorithm"
     ],
     "education_zh": [
-      "硕士研究生, 宁波大学",
-      "B.Eng., 宁波大学",
-      "Prediction and analysis of ship accidents based on machine learning algorithm"
+      "硕士研究生，宁波大学",
+      "工学学士，宁波大学",
+      "基于机器学习算法的船舶事故预测与分析"
     ]
   },
   {
@@ -249,16 +249,16 @@
     "category": "alumni",
     "photo": "male.png",
     "info_en": "B.Eng., graduated 2025; Master student, The University of Tokyo",
-    "info_zh": "本科，毕业于 2025; 硕士研究生, The University of Tokyo",
+    "info_zh": "本科，2025年毕业；东京大学硕士研究生",
     "education_en": [
       "Master student, The University of Tokyo",
       "B.Eng., Ningbo University",
       "Research on ship target detection under low light condition"
     ],
     "education_zh": [
-      "硕士研究生, The University of Tokyo",
-      "B.Eng., 宁波大学",
-      "Research on ship target detection under low light condition"
+      "硕士研究生，东京大学",
+      "工学学士，宁波大学",
+      "低照度条件下船舶目标检测研究"
     ]
   },
   {
@@ -266,14 +266,14 @@
     "category": "alumni",
     "photo": "male.png",
     "info_en": "B.Eng., graduated 2025",
-    "info_zh": "本科，毕业于 2025",
+    "info_zh": "本科，2025年毕业",
     "education_en": [
       "B.Eng., Ningbo University",
       "Investigation and analysis of trust in autonomous driving ship"
     ],
     "education_zh": [
-      "B.Eng., 宁波大学",
-      "Investigation and analysis of trust in autonomous driving ship"
+      "工学学士，宁波大学",
+      "自主航行船舶信任度调查与分析"
     ]
   },
   {
@@ -281,14 +281,14 @@
     "category": "alumni",
     "photo": "female.png",
     "info_en": "B.Eng., graduated 2026",
-    "info_zh": "本科，毕业于 2026",
+    "info_zh": "本科，2026年毕业",
     "education_en": [
       "B.Eng., Ningbo University",
       "Data-Augmented Prediction for Maritime Accidents with Class Imbalance Consideration"
     ],
     "education_zh": [
-      "B.Eng., 宁波大学",
-      "Data-Augmented Prediction for Maritime Accidents with Class Imbalance Consideration"
+      "工学学士，宁波大学",
+      "考虑类别不平衡的海事事故数据增强预测研究"
     ]
   },
   {
@@ -296,14 +296,14 @@
     "category": "alumni",
     "photo": "female.png",
     "info_en": "B.Eng., graduated 2026",
-    "info_zh": "本科，毕业于 2026",
+    "info_zh": "本科，2026年毕业",
     "education_en": [
       "B.Eng., Ningbo University",
       "Analysis of Port Resilience Based on Multiple Metrics in Complex Networks"
     ],
     "education_zh": [
-      "B.Eng., 宁波大学",
-      "Analysis of Port Resilience Based on Multiple Metrics in Complex Networks"
+      "工学学士，宁波大学",
+      "基于复杂网络多指标的港口韧性分析"
     ]
   },
   {
@@ -311,14 +311,14 @@
     "category": "alumni",
     "photo": "male.png",
     "info_en": "B.Eng., graduated 2026",
-    "info_zh": "本科，毕业于 2026",
+    "info_zh": "本科，2026年毕业",
     "education_en": [
       "B.Eng., Ningbo University",
       "Missing Data Imputation and Prediction for Fishing Vessel Accidents Based on Bipartite Graphs"
     ],
     "education_zh": [
-      "B.Eng., 宁波大学",
-      "Missing Data Imputation and Prediction for Fishing Vessel Accidents Based on Bipartite Graphs"
+      "工学学士，宁波大学",
+      "基于二部图的渔船事故缺失数据插补与预测"
     ]
   },
   {
@@ -326,14 +326,14 @@
     "category": "alumni",
     "photo": "male.png",
     "info_en": "B.Eng., graduated 2026",
-    "info_zh": "本科，毕业于 2026",
+    "info_zh": "本科，2026年毕业",
     "education_en": [
       "B.Eng., Ningbo University",
       "Prediction of Ship Accident Types in Polar Waters Based on Large Tabular Models"
     ],
     "education_zh": [
-      "B.Eng., 宁波大学",
-      "Prediction of Ship Accident Types in Polar Waters Based on Large Tabular Models"
+      "工学学士，宁波大学",
+      "基于大型表格模型的极地水域船舶事故类型预测"
     ]
   }
 ]
