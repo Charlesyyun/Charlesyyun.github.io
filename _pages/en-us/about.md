@@ -86,53 +86,6 @@ Laplace approximation](https://doi.org/10.1016/j.ress.2026.112864). *Reliability
  * **Ye, Y.**\* (2019, December 14-16). Risks to pedestrians in traffic systems with unfamiliar driving rules [Oral Presentation]. *The 24th International Conference of Hong Kong Society for Transportation Studies (HKSTS 2019)*, Hong Kong, China.
  * **Ye, Y.**, & Chen, X.\* (2018, January 7-11). Simulation-based optimization for time-of-day coordinated ramp metering of a large-scale urban expressway network [Poster Presentation]. *The 97th Annual Meeting of Transportation Research Board (TRBAM 2018)*, Washington DC, United States.
 
-# Service
-* Editorial Board Member
-  * [EAI Endorsed Transactions on Human-Computer Interaction](https://publications.eai.eu/index.php/hci)
-* Guest Editor
-  * [Special Issue: Next-Generation AI and Foundation Models for Transportation Systems](https://www.mdpi.com/journal/futuretransp/special_issues/75RN94DDCM), Future Transportation
-* Journal Reviewer
-  * ACM Transactions on Knowledge Discovery from Data
-  * Accident Analysis & Prevention
-  * Advanced Engineering Informatics
-  * Applied Soft Computing
-  * Cybernetics & Systems
-  * IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
-  * IEEE Transactions on Intelligent Transportation Systems
-  * IEEE Transactions on Industrial Informatics
-  * IET Image Processing
-  * IET Intelligent Transportation Systems
-  * International Journal of Human-Computer Interaction
-  * JMIR Public Health and Surveillance
-  * Journal of King Saud University Computer and Information Sciences
-  * Journal of South China University of Technology (Natural Science Edition)
-  * Journal of Transportation Safety & Security
-  * Measurement
-  * Neurocomputing
-  * Nondestructive Testing and Evaluation
-  * Reliability Engineering & System Safety
-  * Ships and Offshore Structures
-  * Traffic Injury Prevention
-  * Transport Policy
-  * Transportmetrica A: Transport Science
-  * Travel Behaviour and Society
-  * Transportation Research Interdisciplinary Perspectives
-  * Transportation Research Part A: Policy and Practice
-  * Transportation Research Part E: Logistics and Transportation Review
-  * Transportation Research Part F: Traffic Psychology and Behaviour
-* Conference Reviewer
-  * IEEE International Conference on Intelligent Transportation Systems
-  * IEEE International Conference on Vehicular Electronics and Safety
-  * IEEE Intelligent Vehicles Symposium
-* Organizer
-  * The 27th IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC 2024) Workshop: [*Advanced Modeling, Evaluation, and Simulation of Interactions in Mixed Traffic Comprising Pedestrians, Automated Vehicles, and Human-driven Vehicles*](https://sites.google.com/view/workshop-itsc-2024/)
-* Membership
-  * IEEE Member
-  * IEEE Intelligent Transportation Systems Society Member
-  * IEEE Vehicular Technology Society Member
-  * Chinese Association for Artificial Intelligence Member
-  * Ningbo Municipal Bureau of Science and Technology Expert Database Member
-
 # Mailing Address
 <address>
   Bartlett Faculty of Built Environment <br /> University College London <br /> Gower Street, London, WC1E 6BT, United Kingdom
