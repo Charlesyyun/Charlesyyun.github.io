@@ -17,7 +17,12 @@ nav_order: 7
 
 💼 Professional Experience
 ======
-* Mar 2023 - Present: Associate Professor, Faculty of Maritime and Transportation, Ningbo University, Ningbo, China
+* Aug 2026 - Present: Research Fellow, Bartlett Faculty of Built Environment, University College London, London, United Kingdom
+  * Conduct interdisciplinary research on resilient and sustainable port ecosystems under climate and operational uncertainties through AI-driven risk modelling and infrastructure resilience assessment.
+  * Develop computational frameworks integrating machine learning, digital twins, and multi-hazard analysis to quantify cascading risks and support adaptive decision-making for critical maritime infrastructure.
+  * Collaborate with international academic and industry partners within a Horizon Europe MSCA consortium, contributing to research coordination, knowledge exchange, and evidence-based resilience strategies for future ports.
+
+* Mar 2023 - Aug 2026: Associate Professor, Faculty of Maritime and Transportation, Ningbo University, Ningbo, China
   * Focusing on research areas such as virtual reality, human factors, traffic safety, and pedestrian-autonomous vehicle interaction.
   * Awarded Yongjiang Talent (Young Innovative) and Top Talent by Ningbo, Yue-Kong Pao Young Top Scholar by Ningbo University.
 
@@ -131,5 +136,3 @@ nav_order: 7
   * IEEE Member
   * IEEE Intelligent Transportation Systems Society Member
   * IEEE Vehicular Technology Society Member
-  * Chinese Association for Artificial Intelligence Member
-  * Ningbo Municipal Bureau of Science and Technology Expert Database Member
