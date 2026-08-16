@@ -4,21 +4,21 @@ title: "个人简介"
 lang: zh-cn
 page_id: about
 permalink: /
-subtitle: 宁波大学副教授
+subtitle: 伦敦大学学院研究员
 
 profile:
   align: right
   image: profile.png
   image_circular: false
   more_info: >
-    <p>Faculty of Maritime and Transportation</p>
-    <p>Ningbo University</p>
-    <p>Ningbo, China</p>
+    <p>Bartlett Faculty of Built Environment</p>
+    <p>University Collge London</p>
+    <p>London, United Kingdom</p>
 announcements:
   enabled: false
 social: true
 ---
-叶韫，男，[宁波大学](https://hyxy.nbu.edu.cn/info/2582/43905.htm)海运学院副教授，博士生导师，硕士生导师，英国[伦敦大学学院时空大数据分析实验室](https://www.ucl.ac.uk/engineering/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/spacetimelab)客座讲师/研究员，英国[伦敦帝国理工学院](https://www.imperial.ac.uk/)访问学者。入选浙江省科协青年人才托举培养项目、宁波市甬江人才工程青年创新人才项目、宁波市拔尖人才、宁波大学包玉刚青年拔尖人才等人才计划，荣获欧盟地平线项目玛丽居里行动卓越印章、香港大学李兆基奖学金（Lee Shau Kee Postgraduate Fellowship）和香港大学百年土木未来学者等荣誉。2013-2021年，先后在[浙江大学](https://www.zju.edu.cn/)和[香港大学](https://www.hku.hk/)学习和研究，获得工学学士和博士学位，聚焦人因机理与风险决策、交通系统安全分析、智能交通行为建模等方向。以第一作者或通讯作者身份在SCI/SSCI/EI收录期刊发表论文多篇，研究成果发表于《*Analytic Methods in Accident Research*》、《*IEEE Transactions on Intelligent Transportation Systems*》、《*Reliability Engineering & System Safety*》、《*Transportation Research Part F: Traffic Psychology and Behaviour*》、《*Accident Analysis & Prevention*》、《*Safety Science*》、《*Travel Behaviour and Society*》等交通安全与智能交通领域权威期刊。多次在中国智能交通年会、美国交通研究委员会（TRB）年会、IEEE智能交通系统年会、香港交通运输研究学会国际研讨会等国内外重要学术会议作报告。2021-2023 年，曾任[华为技术有限公司](https://www.huawei.com/cn/) 2012 实验室中央研究院和中央媒体技术研究所高级研究工程师，负责智慧交通系统仿真优化和华为终端计算摄影关键技术研发。主持国家自然科学基金青年科学基金项目（C类）、浙江省自然科学基金项目、浙江省本科省级教学改革项目、宁波市甬江人才工程项目、宁波市自然科学基金项目、华为技术有限公司技术课题等科研与教改项目，参与国家自然科学基金、香港研究资助局（RGC）面上项目及U21大学联盟等多项课题。现为中国人工智能学会会员、浙江省人工智能学会智能交通分会青年委员、宁波市科技局专家库成员、IEEE会员、IEEE智能交通系统学会会员及IEEE车载技术学会会员，担任20余个SCI/SSCI期刊与国际会议审稿专家。
+叶韫，男，英国[伦敦大学学院](https://www.ucl.ac.uk/)巴特莱特建筑环境学院研究员，英国[伦敦大学学院时空大数据分析实验室](https://www.ucl.ac.uk/engineering/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/spacetimelab)客座讲师/研究员，英国[伦敦帝国理工学院](https://www.imperial.ac.uk/)访问学者。入选浙江省科协青年人才托举培养项目、宁波市甬江人才工程青年创新人才项目、宁波市拔尖人才、宁波大学包玉刚青年拔尖人才等人才计划，荣获欧盟地平线项目玛丽居里行动卓越印章、香港大学李兆基奖学金（Lee Shau Kee Postgraduate Fellowship）和香港大学百年土木未来学者等荣誉。2013-2021年，先后在[浙江大学](https://www.zju.edu.cn/)和[香港大学](https://www.hku.hk/)学习和研究，获得工学学士和博士学位，聚焦人因机理与风险决策、交通系统安全分析、智能交通行为建模等方向。以第一作者或通讯作者身份在SCI/SSCI/EI收录期刊发表论文多篇，研究成果发表于《*Analytic Methods in Accident Research*》、《*IEEE Transactions on Intelligent Transportation Systems*》、《*Reliability Engineering & System Safety*》、《*Transportation Research Part F: Traffic Psychology and Behaviour*》、《*Accident Analysis & Prevention*》、《*Safety Science*》、《*Travel Behaviour and Society*》等交通安全与智能交通领域权威期刊。多次在中国智能交通年会、美国交通研究委员会（TRB）年会、IEEE智能交通系统年会、香港交通运输研究学会国际研讨会等国内外重要学术会议作报告。2021-2023 年，曾任[华为技术有限公司](https://www.huawei.com/cn/) 2012 实验室中央研究院和中央媒体技术研究所高级研究工程师，负责智慧交通系统仿真优化和华为终端计算摄影关键技术研发。主持国家自然科学基金青年科学基金项目（C类）、浙江省自然科学基金项目、浙江省本科省级教学改革项目、宁波市甬江人才工程项目、宁波市自然科学基金项目、华为技术有限公司技术课题等科研与教改项目，参与国家自然科学基金、香港研究资助局（RGC）面上项目及U21大学联盟等多项课题。现为中国人工智能学会会员、浙江省人工智能学会智能交通分会青年委员、宁波市科技局专家库成员、IEEE会员、IEEE智能交通系统学会会员及IEEE车载技术学会会员，担任30余个SCI/SSCI期刊与国际会议审稿专家。
 
 更多课题组详情见：[交通安全与智能实验室(TSI Lab)](https://charlesyyun.github.io/tsilab/)
 
@@ -34,7 +34,8 @@ social: true
  * 2013.09-2017.07: 学士，土木工程，建筑工程学院，浙江大学，中国杭州
 
 # 工作经历
- * 2023.03-至今：副教授，博士生导师，宁波大学，海运学院，中国宁波
+ * 2026.08-至今：研究员，巴特莱特建筑环境学院，伦敦大学学院，英国伦敦
+ * 2023.03-2026.08：副教授，博士生导师，宁波大学，海运学院，中国宁波
  * 2025.12-2026.06：客座讲师/研究员，时空大数据分析实验室，土木、环境与测绘工程系，伦敦大学学院，英国伦敦
  * 2025.04-2026.04：访问学者，土木与环境学院，伦敦帝国理工学院，英国伦敦
  * 2022.09-2023.02：高级工程师，中央媒体技术研究院，2012实验室，华为技术有限公司，中国深圳
@@ -87,7 +88,7 @@ Laplace approximation](https://doi.org/10.1016/j.ress.2026.112864). *Reliability
  * 陈喜群\*, 张帅超, 沈凯, **叶韫**, 孙闻聪 (2016). 大数据驱动的动态交通分配仿真及实证研究. 第十一届中国智能交通年会论文集, 重庆, 2016年11月16-18 日. (**优秀论文奖**)
 
 # 学术兼职
-* 编辑
+* 编辑委员会成员
   * [EAI Endorsed Transactions on Human-Computer Interaction](https://publications.eai.eu/index.php/hci)
 * 客座编辑
   * [Special Issue: Next-Generation AI and Foundation Models for Transportation Systems](https://www.mdpi.com/journal/futuretransp/special_issues/75RN94DDCM), Future Transportation
@@ -137,7 +138,9 @@ Laplace approximation](https://doi.org/10.1016/j.ress.2026.112864). *Reliability
 
 # 通讯地址
 <address>
-  浙江省宁波市北仑区梅山街道七星南路169号海运学院海运南楼，邮编315832
+  Bartlett Faculty of Built Environment</p>
+  University College London</p>
+  Gower Street, London, WC1E 6BT, United Kingdom
 </address>
 
 ## 最新动态
