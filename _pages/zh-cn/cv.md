@@ -104,6 +104,7 @@ nav_order: 7
   * Applied Soft Computing
   * Cybernetics & Systems
   * IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+  * IEEE Signal Processing Letters
   * IEEE Transactions on Intelligent Transportation Systems
   * IEEE Transactions on Industrial Informatics
   * IET Image Processing
