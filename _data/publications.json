@@ -1,5 +1,17 @@
 [
   {
+    "title": "Decomposing spatial and seasonal heterogeneity in fishing vessel accident loss severity: A Bayesian generalized beta distribution of the second kind approach",
+    "image": "ress5.png",
+    "description": "SCI, JCR Q1, IF 13.7",
+    "authors": "Zhou, H., Ye, Y., Wang, F., Zhou, H., Wang, Y., Zhou, Y., & Zheng, P. * (2026)",
+    "url": "https://doi.org/10.1016/j.ress.2026.113486",
+    "venue": "Reliability Engineering & System Safety, 278, 113486",
+    "abstract": "Fishing vessel accidents continue to generate substantial economic losses, yet factors associated with loss severity and its spatiotemporal variation remain insufficiently understood. This study models economic loss severity conditional on accident occurrence at the insured-vessel accident-record level. A Bayesian generalized beta distribution of the second kind (GB2) regression incorporates random parameters, structured spatial effects, year-season temporal effects, and season-specific spatial interactions. The analysis uses 14,150 accident records from fishing vessels registered in Zhoushan, Taizhou, and Wenzhou and located within the defined East China Sea study domain during 2018–2022. The framework accommodates the nonnegative, right-skewed, heavy-tailed deemed losses while separating observed covariate associations, record-level heterogeneity, persistent spatial structure, period-specific temporal anomalies, and season-specific spatial variation. Hierarchical model comparison supports the inclusion of record-level heterogeneity and structured spatial dependence. Capsize or sinking and fire or explosion show some of the largest positive associations with conditional loss severity and the greatest record-level heterogeneity. The decomposition identifies persistent baseline hotspots, period-specific temporal anomalies, and season-specific spatial severity hotspots. Posterior exceedance probabilities provide uncertainty-aware hotspot evidence. These results may inform differentiated and seasonally adaptive fisheries safety management.",
+    "details": "/publication/2026-09-11-spatial-seasonal-GB2/",
+    "year": 2026,
+    "selected": false
+  },
+  {
     "title": "Latent Diffusion Neural Fields for zero-shot and uncertainty-aware bearing remaining useful life prediction",
     "image": "ress4.png",
     "description": "SCI, JCR Q1, IF 13.7",
