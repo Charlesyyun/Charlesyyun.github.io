@@ -105,6 +105,7 @@ nav_order: 7
   * Cybernetics & Systems
   * IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
   * IEEE Signal Processing Letters
+  * IEEE Transactions on Geoscience and Remote Sensing
   * IEEE Transactions on Intelligent Transportation Systems
   * IEEE Transactions on Industrial Informatics
   * IET Image Processing
