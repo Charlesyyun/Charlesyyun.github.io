@@ -26,7 +26,7 @@ nav_order: 7
   * Focusing on research areas such as virtual reality, human factors, traffic safety, and pedestrian-autonomous vehicle interaction.
   * Awarded Yongjiang Talent (Young Innovative) and Top Talent by Ningbo, Yue-Kong Pao Young Top Scholar by Ningbo University.
 
-* Dec 2025 - Jun 2026: Visiting Lecturer/Researcher, SpaceTimeLab, Department of Civil, Environmental and Geomatic Engineering, University College London, London, United Kingdom
+* Dec 2025 - Jun 2026: Visiting Researcher, SpaceTimeLab, Department of Civil, Environmental and Geomatic Engineering, University College London, London, United Kingdom
   * Work on human mobility behaviour modelling and counterfactual policy analysis, focusing on how epidemic control measures and policy phases influence daily activity–travel decisions. The research integrates deep learning and inverse reinforcement learning to disentangle stable individual preferences from policy-induced behavioural changes. A key emphasis is on developing policy-sensitive and interpretable models that support credible counterfactual simulations rather than purely predictive accuracy. This work contributes to data-driven evaluation of public health and transport interventions.
 
 * Apr 2025 - Oct 2025: Academic Visitor, Transport Section, Department of Civil and Environmental Engineering, Imperial College London, London, United Kingdom
