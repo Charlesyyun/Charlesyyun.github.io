@@ -103,6 +103,7 @@ nav_order: 7
   * Advanced Engineering Informatics
   * Applied Soft Computing
   * Cybernetics & Systems
+  * IEEE Internet of Things Journal
   * IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
   * IEEE Signal Processing Letters
   * IEEE Transactions on Geoscience and Remote Sensing
