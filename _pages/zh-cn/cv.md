@@ -107,13 +107,15 @@ nav_order: 7
   * IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
   * IEEE Signal Processing Letters
   * IEEE Transactions on Geoscience and Remote Sensing
-  * IEEE Transactions on Intelligent Transportation Systems
   * IEEE Transactions on Industrial Informatics
+  * IEEE Transactions on Intelligent Transportation Systems
+  * IEEE Transactions on Vehicular Technology
   * IET Image Processing
   * IET Intelligent Transportation Systems
   * International Journal of Human-Computer Interaction
   * JMIR Public Health and Surveillance
   * Journal of King Saud University Computer and Information Sciences
+  * Journal of Public Transportation
   * Journal of South China University of Technology (Natural Science Edition)
   * Journal of Transportation Safety & Security
   * Measurement
