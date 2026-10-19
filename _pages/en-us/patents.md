@@ -21,7 +21,7 @@ Ye, Y., Li, Z., Miao, T., Cao, S., Fang, B., Guo, M., & Guo, T. (2026) A method 
 
 ### [A Multi-Method Fusion Interpretation Method for Feature Importance Based on Evidence Fusion]({{ '/patent/2026-02-04-patent-9/' | relative_url }})
 
-Ye, Y., Li, Z., Cao, S., Miao, T., Yang, H., Zhan, X., & Xu, P. (2026) A Multi-Method Fusion Interpretation Method for Feature Importance Based on Evidence Fusion. Application No.: 2026101550641, February 04, 2026.
+Ye, Y., Li, Z., Cao, S., Miao, T., Yang, H., Zhan, X., & Xu, P. (2026) A Multi-Method Fusion Interpretation Method for Feature Importance Based on Evidence Fusion. Authorised No.: CN122087460B, Patent No. ZL202610541879.3, July 24, 2026.
 
 ### [Urban Rail Transit Coordinated Dispatching System and Method for Multi-Source Passenger Flow Fluctuations]({{ '/patent/2026-01-30-patent-8/' | relative_url }})
 
