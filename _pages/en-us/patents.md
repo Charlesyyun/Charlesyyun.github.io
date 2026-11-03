@@ -9,7 +9,7 @@ nav_order: 5
 ---
 ### [A Traffic Data Imputation Method Based on a Context-Enhanced Graph Network]({{ '/patent/2026-08-27-patent-12/' | relative_url }})
 
-Ye, Y., Fang, B., Guo, T., Cao, S., Miao, T., & Li, Z. (2026) A Traffic Data Imputation Method Based on a Context-Enhanced Graph Network. Application No.: 2026112814925, August 27, 2026.
+Ye, Y., Fang, B., Guo, T., Cao, S., Miao, T., & Li, Z. (2026) A Traffic Data Imputation Method Based on a Context-Enhanced Graph Network. Authorised No.: CN122796375B, Patent No.: ZL202611281492.5, November 3, 2026.
 
 ### [An Event-Driven Public Opinion Risk Early Warning Method for Autonomous Robotaxi Services]({{ '/patent/2026-07-08-patent-11/' | relative_url }})
 
